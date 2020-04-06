@@ -1,4 +1,4 @@
 {
-  "kurdistan:https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/255px-Flag_of_Kurdistan.svg.png": {},
-  "iran:https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/255px-Flag_of_Iran.svg.png": {}
+  "kurdistan":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/255px-Flag_of_Kurdistan.svg.png",
+  "iran":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/255px-Flag_of_Iran.svg.png"
 }
