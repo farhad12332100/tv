@@ -6,5 +6,100 @@
   "name": "Alhurra",
   "logo": "https://images-eu.ssl-images-amazon.com/images/I/51HUps%2Bo2jL.png",
   "iptv": "http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8"
+}, {
+  "name": "Al Fallujah",
+  "logo": "https://img.new.livestream.com/events/0000000000404bb5/e5bcac42-2852-4a44-8af2-712623063e79.png",
+  "iptv": "https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8"
+}, {
+  "name": "Al Mayadeen",
+  "logo": "https://lh3.googleusercontent.com/Js2NRcZ4ynl23J9Qupti47cFhL7_D-OBQvYCi1YYuLynAOzqHbd20_QdfWgFs3MyrD0",
+  "iptv": "http://95.170.215.109/hls/MAYADEEN-Backup-M.m3u8"
+}, {
+  "name": "Al Rafidain",
+  "logo": "https://www.klma.org/wp-content/uploads/2019/03/30-03-2019_7-48-483.jpg",
+  "iptv": "http://cdn.edge.tmed.pw/arrafidaintv/abr_live/playlist.m3u8"
+}, {
+  "name": "Al Rasheed",
+  "logo": "https://static-media.streema.com/media/cache/40/03/400382aac47fc322113485143231d71c.jpg",
+  "iptv": "http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8"
+}, {
+  "name": "Al Sharqiya",
+  "logo": "https://ewsat.com/img/AL_SHARQIYA.png",
+  "iptv": "http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8"
+}, {
+  "name": "Al Sharqiya News",
+  "logo": "https://www.egypt-life.com/wp-content/uploads/2018/02/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9-%D9%86%D9%8A%D9%88%D8%B2-%D8%B2.jpg",
+  "iptv": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8"
+}, {
+  "name": "Al Sumaria",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRWmx4zuODSdLpbzkDwk5nOdGiFSv8GoWp8MZqk-sBjVxLKF6Z_&usqp=CAU",
+  "iptv": "http://95.170.215.109/hls/m3u8/AlSumaria-Backup.m3u8"
+}, {
+  "name": "Al Taghayer",
+  "logo": "https://live-tv-channels.org/pt-data/uploads/logo/jo-altaghier-tv.jpg",
+  "iptv": "https://player-api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8"
+}, {
+  "name": "AshurSat",
+  "logo": "https://images-eu.ssl-images-amazon.com/images/I/51HUps%2Bo2jL.png",
+  "iptv": "https://5afd52b55ff79.streamlock.net/AshurSat/myStream/playlist.m3u8"
+}, {
+  "name": "Assyrian ANB",
+  "logo": "https://i.vimeocdn.com/portrait/7018954_640x640",
+  "iptv": "https://597f64b67707a.streamlock.net/anbsat.com/anb2/playlist.m3u8?checkedby:iptvcat.com"
+}, {
+  "name": "Babylon TV",
+  "logo": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/7c/28/3f/7c283f8f-393c-5d14-ae8a-4819a9abf96e/source/512x512bb.jpg",
+  "iptv": "https://babylonlive.net/babylontv/kardokardo.m3u8"
+}, {
+  "name": "Karbala",
+  "logo": "https://i1.sndcdn.com/artworks-000322934356-apjn7d-t500x500.jpg",
+  "iptv": "https://player-api.new.livestream.com/accounts/11436227/events/3998452/live.m3u8"
+}, {
+  "name": "KurdMax",
+  "logo": "https://ewsat.com/img/KURDMAX.png",
+  "iptv": "http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist.m3u8"
+}, {
+  "name": "KurdMax Music",
+  "logo": "https://lh3.googleusercontent.com/2e_fwXZLOjMRkOhpJ3AdI-HNHzZ1xOzdojsrRR7nAZYm7O3oxBOA9aX-Z22WIMw_54w=w420-rw",
+  "iptv": "http://31.14.40.139:1935/music/livestream/chunklist.m3u8"
+}, {
+  "name": "KurdMax Papule",
+  "logo": "https://www.nilesat7.com/wp-content/uploads/2019/07/%D9%82%D9%86%D8%A7%D8%A9-%D9%83%D9%88%D8%B1%D8%AF-%D9%85%D8%A7%D9%83%D8%B3.jpg",
+  "iptv": "http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8"
+}, {
+  "name": "KurdMax Show",
+  "logo": "https://lh3.googleusercontent.com/proxy/eEyrrhLp80E_YAaL77mSBco54FVuCtgPEDGIxS7yuwpOfF9KsO_VOciFP8c6ogDDW3hcz62T5dh0QGAsEF2ZCUw",
+  "iptv": "http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/chunklist.m3u8"
+}, {
+  "name": "Kurdistan TV",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/1/14/Kurdistan_tv.png",
+  "iptv": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8"
+}, {
+  "name": "Kurdsat",
+  "logo": "https://karwan.tv/wp-content/uploads/2019/07/kurdsat-tv-2.png",
+  "iptv": "https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8"
+}, {
+  "name": "MBC Iraq",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png",
+  "iptv": "http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8"
+}, {
+  "name": "Music Al Remas",
+  "logo": "https://i1.sndcdn.com/avatars-000158157337-4u6623-t500x500.jpg",
+  "iptv": "http://95.170.215.109/hls/m3u8/M-Alremas-Backup.m3u8"
+}, {
+  "name": "Music Al Haneen",
+  "logo": "https://image.winudf.com/v2/image/Y29tLmxvLm11c2ljQWxoYW5lZW5fc2NyZWVuc2hvdHNfMF81YTBlYzIwOQ/screen-0.jpg?fakeurl=1&type=.jpg",
+  "iptv": "http://95.170.215.109/hls/m3u8/M-alhanen-Backup.m3u8"
+}, {
+  "name": "Rudaw TV",
+  "logo": "https://www.parsatv.com/index_files/channels/rudawtv.jpg",
+  "iptv": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8"
+}, {
+  "name": "Speda TV",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Speda.jpg",
+  "iptv": "http://speda.teradek.live:1935/live/spedahd/chunklist.m3u8"
+}, {
+  "name": "Zagros",
+  "logo": "https://www.altkia.com/wp-content/uploads/2015/03/%D9%82%D9%86%D8%A7%D8%A9-%D8%B2%D8%A7%D8%BA%D8%B1%D9%88%D8%B3.jpg",
+  "iptv": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8"
 }]
-
