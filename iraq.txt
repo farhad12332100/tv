@@ -7,3 +7,4 @@
   "logo": "https://images-eu.ssl-images-amazon.com/images/I/51HUps%2Bo2jL.png",
   "iptv": "http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8"
 }]
+
