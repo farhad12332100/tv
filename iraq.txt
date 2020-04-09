@@ -24,7 +24,7 @@
   "iptv": "http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8"
 }, {
   "name": "Al Sharqiya",
-  "logo": "https://ewsat.com/img/AL_SHARQIYA.png",
+  "logo": "http://bayanbox.ir/view/8775522420000476276/AL-SHARQIYA.png",
   "iptv": "http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8"
 }, {
   "name": "Al Sharqiya News",
@@ -56,7 +56,7 @@
   "iptv": "https://player-api.new.livestream.com/accounts/11436227/events/3998452/live.m3u8"
 }, {
   "name": "KurdMax",
-  "logo": "https://ewsat.com/img/KURDMAX.png",
+  "logo": "http://bayanbox.ir/view/597192649527900028/KURDMAX.png",
   "iptv": "http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist.m3u8"
 }, {
   "name": "KurdMax Music",
