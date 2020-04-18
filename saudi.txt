@@ -71,72 +71,72 @@
 	"logo": "https://static.filmon.com/assets/channels/2606/extra_big_logo.png",
 	"name": "Rotana Khalijia",
 	"iptv": "http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8?checkedby:iptvcat.com"
-}, {
+},{
 
 	"logo": "https://img.favpng.com/18/15/12/moka-rodrigues-mauritius-broadcasting-corporation-television-channel-mbc-1-png-favpng-9mDCd5FQ76bG2KBmQjKwEjZBq.jpg",
 	"name": "MBC 1 HD",
 	"iptv": "http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8"
-}, {
+},{
 
 	"logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png",
 	"name": "MBC 2 HD",
 	"iptv": "http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8"
-}, {
+},{
 
 	"logo": "https://www.mbc.net/.imaging/stk/mbc/photo-mod4/media/Photos/2012/September/week08/MBC3/original/0064b4339a6a08699729ac5ce4245e5a6f88c863/MBC3.jpg",
 	"name": "MBC 3 HD",
 	"iptv": "http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8"
-}, {
+},{
 
 	"logo": "https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png",
 	"name": "MBC 4 HD",
 	"iptv": "http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8"
-}, {
+},{
 
 	"logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png",
 	"name": "MBC MAX HD",
 	"iptv": "http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8"
-}, {
+},{
 
 	"logo": "https://i.pinimg.com/564x/8d/e2/4a/8de24a155e2152c225375f0b4dc51ca5.jpg",
 	"name": "MBC ACTION HD",
 	"iptv": "http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8"
-}, {
+},{
 
 	"logo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png",
 	"name": "MBC MASR HD",
 	"iptv": "http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8"
-}, {
+},{
 
 	"logo": "https://cdn.sat.tv/wp-content/uploads/2017/03/MBCDrama.png",
 	"name": "MBC DRAMA",
 	"iptv": "http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8"
-}, {
+},{
 
 	"logo": "https://upload.wikimedia.org/wikipedia/commons/7/79/MBC_BOLLYWOOD.png",
 	"name": "MBC BOLLYWOOD",
 	"iptv": "http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8"
-}, {
+},{
 
 	"logo": "https://pbs.twimg.com/profile_images/2732587731/85d174252a97edeab824aa29a4c51cbb_400x400.png",
 	"name": "Wanasah TV",
 	"iptv": "http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8"
-}, {
+},{
 
 	"logo": "https://ewsat.com/img/STAR_MOVIES.png",
 	"name": "Star Movies",
 	"iptv": "http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8"
-}, {
+},{
 
 	"logo": "https://mir-s3-cdn-cf.behance.net/projects/404/10014929.547f68ecc3cf7.jpg",
 	"name": "ZEE Aflam",
 	"iptv": "http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8"
-}, {
+},{
 
 	"logo": "https://upload.wikimedia.org/wikipedia/en/6/62/STAR_World_2013.png",
 	"name": "Star World",
 	"iptv": "http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8"
-}, {
+},{
 
 	"logo": "https://content.osn.com/logo/channel/cropped/NOW.pngg",
 	"name": "Music Now",
