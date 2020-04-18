@@ -71,11 +71,36 @@
 	"logo": "https://static.filmon.com/assets/channels/2606/extra_big_logo.png",
 	"name": "Rotana Khalijia",
 	"iptv": "http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8?checkedby:iptvcat.com"
+},{
+
+	"logo": "https://static.filmon.com/assets/channels/2606/extra_big_logo.png",
+	"name": "Rotana Khalijia",
+	"iptv": "http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8?checkedby:iptvcat.com"
+},{
+
+	"logo": "https://static.filmon.com/assets/channels/2606/extra_big_logo.png",
+	"name": "Rotana Khalijia",
+	"iptv": "http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8?checkedby:iptvcat.com"
+},{
+
+	"logo": "https://static.filmon.com/assets/channels/2606/extra_big_logo.png",
+	"name": "Rotana Khalijia",
+	"iptv": "http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8?checkedby:iptvcat.com"
+},{
+
+	"logo": "https://static.filmon.com/assets/channels/2606/extra_big_logo.png",
+	"name": "Rotana Khalijia",
+	"iptv": "http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8?checkedby:iptvcat.com"
+},{
+
+	"logo": "https://static.filmon.com/assets/channels/2606/extra_big_logo.png",
+	"name": "Rotana Khalijia",
+	"iptv": "http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8?checkedby:iptvcat.com"
 }, {
 
 	"logo": "https://static.filmon.com/assets/channels/1775/extra_big_logo.png",
 	"name": "Saudi TV 1",
-	"iptv": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8?checkedby:iptvcat.com"
+	"iptv": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8?checkedby:iptvcat.com
 }, {
 	"logo": "https://lebanonchannels.com/sites/default/files/XjhJoPZh.png",
 	"name": "Rotana Music",
