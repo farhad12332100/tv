@@ -23,7 +23,7 @@
 	"name": "Almajd TV",
 	"iptv": "http://livecdnh3.tvanywhere.ae/hls/majd/04.m3u8?checkedby:iptvcat.com"
 }, {
-	"logo": "https: //media-exp1.licdn.com/dms/image/C4D0BAQHXmK146zoHmA/company-logo_200_200/0?e=2159024400&v=beta&t=5jlfiYiWf5gWoVfz-3vAx6-_yPfS_UPJkuiYFn2x1wA",
+	"logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQHXmK146zoHmA/company-logo_200_200/0?e=2159024400&v=beta&t=5jlfiYiWf5gWoVfz-3vAx6-_yPfS_UPJkuiYFn2x1wA",
 	"name": "Beity",
 	"iptv": "http://82.212.74.99:8000/live/8164.m3u8"
 }, {
