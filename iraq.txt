@@ -127,22 +127,6 @@
   "logo": "http://kurdtvs.net/uploads/files/28-06-2019-06e8ca47-ava-ent.png",
   "iptv": "http://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/../../1003949/c9aa559e/c9aa559e_1_2160000/chunklist.m3u8"
 },{
-  "name": "FFFF",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Speda.jpg",
-  "iptv": "https://ok.ru/video/1573905440416?fromTime=14645"
-},{
-  "name": "Speda TV",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Speda.jpg",
-  "iptv": "http://speda.teradek.live:1935/live/spedahd/chunklist.m3u8"
-},{
-  "name": "Speda TV",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Speda.jpg",
-  "iptv": "http://speda.teradek.live:1935/live/spedahd/chunklist.m3u8"
-},{
-  "name": "Speda TV",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Speda.jpg",
-  "iptv": "http://speda.teradek.live:1935/live/spedahd/chunklist.m3u8"
-}, {
   "name": "Zagros",
   "logo": "https://www.altkia.com/wp-content/uploads/2015/03/%D9%82%D9%86%D8%A7%D8%A9-%D8%B2%D8%A7%D8%BA%D8%B1%D9%88%D8%B3.jpg",
   "iptv": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8"
