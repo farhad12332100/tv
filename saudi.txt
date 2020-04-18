@@ -140,7 +140,7 @@
     "iptv": "http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8"
   },
   {
-    "logo": "https://ewsat.com/img/STAR_MOVIES.png",
+    "logo": "https://i.dlpng.com/static/png/421502_preview.png",
     "name": "Star Movies",
     "iptv": "http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8"
   },
@@ -155,7 +155,7 @@
     "iptv": "http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8"
   },
   {
-    "logo": "https://content.osn.com/logo/channel/cropped/NOW.pngg",
+    "logo": "https://content.osn.com/logo/channel/cropped/NOW.png",
     "name": "Music Now",
     "iptv": "http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8"
   },
