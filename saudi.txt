@@ -140,7 +140,7 @@
     "iptv": "http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8"
   },
   {
-    "logo": "https://i.dlpng.com/static/png/421502_preview.png",
+    "logo": "http://bayanbox.ir/view/6540484169743883373/ezgif-2-326966665f59.jpg",
     "name": "Star Movies",
     "iptv": "http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8"
   },
@@ -155,7 +155,7 @@
     "iptv": "http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8"
   },
   {
-    "logo": "https://content.osn.com/logo/channel/cropped/NOW.png",
+    "logo": "http://bayanbox.ir/view/6654841557052340635/ezgif-2-32d5ce494023.jpg",
     "name": "Music Now",
     "iptv": "http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8"
   },
