@@ -95,6 +95,50 @@
   "logo": "https://www.parsatv.com/index_files/channels/rudawtv.jpg",
   "iptv": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8"
 }, {
+  "name": "NRT TV HD",
+  "logo": "https://lh3.googleusercontent.com/proxy/zg2BIozy_A26um6to9EX6Wbfl3kiU850dQZ6SKd5Vxf68q78UZRGu8Hd-ixi-2BQJaURbkaffjdJCgKjBFTV",
+  "iptv": "https://5d5e28481f3ad.streamlock.net/NRTHD/ngrp:livestream_all/chunklist_w1076047154_b1365536.m3u8"
+},{
+  "name": "NRT2 TV HD",
+  "logo": "http://kurdtvs.net/uploads/files/23-04-2016-c02c9b27-nrt2-hd-live-kurdtvs.png",
+  "iptv": "https://5d5e28481f3ad.streamlock.net/NRT2/livestream/chunklist_w186173667.m3u8"
+},{
+  "name": "Kurdistan 24",
+  "logo": "http://kurdtvs.net/uploads/kurdistan24.png",
+  "iptv": "https://k24mediaservice.streaming.mediaservices.windows.net/aea162c0-bd1f-4943-9701-c536af647243/5d852da8-8710-4c86-9d9d-e300c7d269d6.ism/manifest(format=mpd-time-csf)"
+},{
+  "name": "Amozhgary TV",
+  "logo": "http://kurdtvs.net/uploads/amozhgary.png",
+  "iptv": "http://amozhgary.flashmediacast.com:1935/amozhgary/livestream/chunklist_w242188119.m3u8"
+},{
+  "name": "Newline HD TV",
+  "logo": "http://kurdtvs.net/uploads/newline.png",
+  "iptv": "http://liveshell.net:1935/live/new010line/chunklist_w1021444124.m3u8"
+},{
+  "name": "Gali Kurdistan",
+  "logo": "http://kurdtvs.net/uploads/kelikurdistan.png",
+  "iptv": "http://51.75.66.91:8080/gksat.mp4"
+},{
+  "name": "TRT Kurdi TV",
+  "logo": "http://kurdtvs.net/uploads/trtkurdi.png",
+  "iptv": "https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8"
+},{
+  "name": "Ava Entertainment",
+  "logo": "http://kurdtvs.net/uploads/files/28-06-2019-06e8ca47-ava-ent.png",
+  "iptv": "http://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/../../1003949/c9aa559e/c9aa559e_1_2160000/chunklist.m3u8"
+},{
+  "name": "FFFF",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Speda.jpg",
+  "iptv": "https://ok.ru/video/1573905440416?fromTime=14645"
+},{
+  "name": "Speda TV",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Speda.jpg",
+  "iptv": "http://speda.teradek.live:1935/live/spedahd/chunklist.m3u8"
+},{
+  "name": "Speda TV",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Speda.jpg",
+  "iptv": "http://speda.teradek.live:1935/live/spedahd/chunklist.m3u8"
+},{
   "name": "Speda TV",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Speda.jpg",
   "iptv": "http://speda.teradek.live:1935/live/spedahd/chunklist.m3u8"
