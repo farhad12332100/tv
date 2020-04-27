@@ -27,7 +27,7 @@
 	"name": "SHOW TV HD",
 	"iptv": "http://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8"
 }, {
-	"logo": https://www.tvsa.co.za/images/uploads/thumbs/0049544.png
+	"logo": "https://www.tvsa.co.za/images/uploads/thumbs/0049544.png",
 	"name": "FOX TV HD",
 	"iptv": "http://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8"
 }, {
