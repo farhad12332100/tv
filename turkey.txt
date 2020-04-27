@@ -55,7 +55,7 @@
 	"name": "TEVE2 HD",
 	"iptv": "http://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/chunklist_b2064000.m3u8"
 }, {
-	"logo": "https://www.digiturkburada.com/kanal/kanal-buyuk/beyaz-tv-hd-buyuk.png",
+	"logo": "https://dizifilmtv.pw/wp-content/uploads/2019/04/beyaz-tv-500x705.png",
 	"name": "Beyaz TV HD",
 	"iptv": "http://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/chunklist_b2064000.m3u8"
 }, {
