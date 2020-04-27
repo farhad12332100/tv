@@ -39,76 +39,76 @@
 	"name": "TRT1 HD",
 	"iptv": "https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/chunklist_b3128000.m3u8"
 }, {
-	"logo": "https://static10.tgstat.ru/channels/_0/15/15e997822fcaa1b7048530800eacce88.jpg",
-	"name": "Cine Series",
-	"iptv": "http://162.212.176.222/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8"
+	"logo": "https://img.piri.net/resim/imagecrop/2016/12/19/09/21/resized_bacec-efd83744ligtv.jpeg",
+	"name": "SUPER LIG TV HD",
+	"iptv": "http://46.105.233.106:8283/hls/ntvspor/playlist.m3u8"
 }, {
-	"logo": "https://static-media.streema.com/media/cache/0f/0d/0f0d93f058fb9172777ac8af7f0a3a4a.jpg",
-	"name": "VOA Farsi HD",
-	"iptv": "https://voa-lh.akamaihd.net/i/voapnn_7@72817/index_1080_av-p.m3u8?sd=10&rebase=on"
+	"logo": "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/10/TLC_logo.jpg?resize=321%2C157",
+	"name": "TLC HD",
+	"iptv": "http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8"
 }, {
-	"logo": "https://static-media.streema.com/media/cache/0f/0d/0f0d93f058fb9172777ac8af7f0a3a4a.jpg",
-	"name": "VOA Farsi SD",
-	"iptv": "https://voa-lh.akamaihd.net/i/voapnn_7@72817/index_0540_av-b.m3u8?sd=10&rebase=on"
+	"logo": "https://i2.cnnturk.com/i/cnnturk/75/400x333/5a683c7861361f1d94d8e493.jpg",
+	"name": "CNNTURK HD",
+	"iptv": "http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8"
 }, {
-	"logo": "https://live-tv-channels.org/pt-data/uploads/logo/ae-gem-tv-2596.jpg",
-	"name": "Gem TV SD",
-	"iptv": "http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8"
+	"logo": "https://www.hdtvler.tv/media/images/tvlogo/teve2-hdtvler-3hk3.png",
+	"name": "TEVE2 HD",
+	"iptv": "http://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/chunklist_b2064000.m3u8"
 }, {
-	"logo": "https://www.parsatv.com/index_files/channels/gemseries.jpg",
-	"name": "Gem Series SD",
-	"iptv": "https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/chunklist.m3u8"
+	"logo": "https://www.digiturkburada.com/kanal/kanal-buyuk/beyaz-tv-hd-buyuk.png",
+	"name": "Beyaz TV HD",
+	"iptv": "http://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/chunklist_b2064000.m3u8"
 }, {
-	"logo": "https://live-tv-channels.org/pt-data/uploads/logo/ae-gem-bollywood-4388.jpg",
-	"name": "Gem Bollywood",
-	"iptv": "http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8"
+	"logo": "https://i.pinimg.com/474x/6c/16/90/6c169064ba0695f9a79ac4a7c513ad83.jpg",
+	"name": "Tivibu Spor HD",
+	"iptv": "http://zu2or9hg.rocketcdn.com/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8"
 }, {
-	"logo": "http://oklivetv.com/wp-content/uploads/2015/09/gem-rubix.jpg",
-	"name": "Gem Rubix",
-	"iptv": "http://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8"
+	"logo": "https://i.pinimg.com/originals/7b/a1/ef/7ba1ef0c20551eda7ccab6066544668b.png",
+	"name": "HABERTURK HD",
+	"iptv": "http://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/chunklist_b2064000.m3u8"
 }, {
-	"logo": "https://www.parsatv.com/index_files/channels/afntv.jpg",
-	"name": "AFN SD",
-	"iptv": "https://unirtmp.tulix.tv/tintv2/tintv2//chunklist_w682955038.m3u8"
+	"logo": "https://images-na.ssl-images-amazon.com/images/I/21InBqJaKOL._SY355_.png",
+	"name": "D MAX HD",
+	"iptv": "https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1828000_sltur.m3u8"
 }, {
-	"logo": "https://www.sat7uk.org/wp/wp-content/uploads/2018/02/SAT-7-PARS-900x487.png",
-	"name": "Sat7 Pars",
-	"iptv": "https://unirtmp.tulix.tv/sat7pars/satparslive-web.smil/chunklist_w633668651_b1000000.m3u8"
+	"logo": "https://www.logolynx.com/images/logolynx/95/954f776e6cc9387084935dfb5f0b052e.jpeg",
+	"name": "FX HD",
+	"iptv": "http://mn-nl.mncdn.com/blutv_fx/fx_hd.smil/chunklist_b2064000.m3u8"
 
 }, {
-	"logo": "https://www.sat7uk.org/wp/wp-content/uploads/2018/02/SAT-7-PARS-900x487.png",
-	"name": "Sat7 Pars",
-	"iptv": "https://unirtmp.tulix.tv/sat7pars/satparslive-web.smil/chunklist_w633668651_b1000000.m3u8"
+	"logo": "https://upload.wikimedia.org/wikipedia/en/6/60/Kanal7_logo.jpg",
+	"name": "KANAL 7 HD",
+	"iptv": "http://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist_b2064000.m3u8"
 
 }, {
-	"logo": "https://www.sat7uk.org/wp/wp-content/uploads/2018/02/SAT-7-PARS-900x487.png",
-	"name": "Sat7 Pars",
-	"iptv": "https://unirtmp.tulix.tv/sat7pars/satparslive-web.smil/chunklist_w633668651_b1000000.m3u8"
+	"logo": "https://www.persoenlich.com/media/cache/top/sites/default/files/tv24logo_positiv_jpg_web.jpg",
+	"name": "TV24 HD",
+	"iptv": "http://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_hd.smil/chunklist_b2064000.m3u8"
 
 }, {
-	"logo": "https://www.sat7uk.org/wp/wp-content/uploads/2018/02/SAT-7-PARS-900x487.png",
-	"name": "Sat7 Pars",
-	"iptv": "https://unirtmp.tulix.tv/sat7pars/satparslive-web.smil/chunklist_w633668651_b1000000.m3u8"
+	"logo": "https://www.turkmedya.com.tr/assets/img/logo/logo_360tv.png",
+	"name": "360 TV HD",
+	"iptv": "http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8"
 
 }, {
-	"logo": "https://www.sat7uk.org/wp/wp-content/uploads/2018/02/SAT-7-PARS-900x487.png",
-	"name": "Sat7 Pars",
-	"iptv": "https://unirtmp.tulix.tv/sat7pars/satparslive-web.smil/chunklist_w633668651_b1000000.m3u8"
+	"logo": "https://static.birgun.net/resim/haber-detay-resim/2020/01/10/halk-tv-satildi-673546-5.jpg",
+	"name": "HALK TV HD",
+	"iptv": "http://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8"
 
 }, {
-	"logo": "https://www.sat7uk.org/wp/wp-content/uploads/2018/02/SAT-7-PARS-900x487.png",
-	"name": "Sat7 Pars",
-	"iptv": "https://unirtmp.tulix.tv/sat7pars/satparslive-web.smil/chunklist_w633668651_b1000000.m3u8"
+	"logo": "https://pbs.twimg.com/profile_images/991988666858958849/Y8ICJiax_400x400.jpg",
+	"name": "KRAL TV HD",
+	"iptv": "http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8"
 
 }, {
-	"logo": "https://www.sat7uk.org/wp/wp-content/uploads/2018/02/SAT-7-PARS-900x487.png",
-	"name": "Sat7 Pars",
-	"iptv": "https://unirtmp.tulix.tv/sat7pars/satparslive-web.smil/chunklist_w633668651_b1000000.m3u8"
+	"logo": "https://pbs.twimg.com/profile_images/468714376023666688/30svdqHA_400x400.png",
+	"name": "KRAL POP HD",
+	"iptv": "http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8"
 
 }, {
-	"logo": "https://www.sat7uk.org/wp/wp-content/uploads/2018/02/SAT-7-PARS-900x487.png",
-	"name": "Sat7 Pars",
-	"iptv": "https://unirtmp.tulix.tv/sat7pars/satparslive-web.smil/chunklist_w633668651_b1000000.m3u8"
+	"logo": "https://cdn.ucankus.com/img/lsakgfjsadwlkgshjklgshkjdghnskjghsdhg.jpeg",
+	"name": "UCANKUS TV HD",
+	"iptv": "http://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8"
 
 }, {
 	"logo": "https://www.sat7uk.org/wp/wp-content/uploads/2018/02/SAT-7-PARS-900x487.png",
