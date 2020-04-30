@@ -1,0 +1,170 @@
+[{
+		"logo": "https://www.1arablive.com/livetv/assets/images/1532439956.png",
+		"name": "Abu Dhabi Sports 1 HD",
+		"iptv": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1&checkedby:iptvcat.com"
+	}, {
+		"logo": "https://www.tv.wataan.com/uploads/892019-044606PM.png",
+		"name": "Abu Dhabi Sports 3 HD",
+		"iptv": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:iptvcat.com"
+	}, {
+		"logo": "https://www.wataan.com/uploads/13122017-022622PM.png",
+		"name": "Abu Dhabi Sports 4",
+		"iptv": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4&checkedby:iptvcat.com"
+	}, {
+		"logo": "https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png",
+		"name": "Abu Dhabi TV",
+		"iptv": "http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby:iptvcat.com"
+	}, {
+		"logo": "https://i.pinimg.com/originals/70/af/5d/70af5d5b926e1512547cef6b0d949b44.png",
+		"name": "Al Aan TV",
+		"iptv": "http://livecdnh3.tvanywhere.ae/hls/alaantv/04.m3u8?checkedby:iptvcat.com"
+	}, {
+		"logo": "https://media-exp1.licdn.com/dms/image/C510BAQEf-_bPrLS12w/company-logo_200_200/0?e=2159024400&v=beta&t=nzjyUIDqwycIp49JFOxhSv4WDDs7iQqaNCrJ_AOare8",
+		"name": "Al Arabiya FHD",
+		"iptv": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8?checkedby:iptvcat.com"
+	}, {
+		"logo": "https://media-exp1.licdn.com/dms/image/C510BAQEf-_bPrLS12w/company-logo_200_200/0?e=2159024400&v=beta&t=nzjyUIDqwycIp49JFOxhSv4WDDs7iQqaNCrJ_AOare8",
+		"name": "Al Arabiya HD",
+		"iptv": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?checkedby:iptvcat.com"
+	}, {
+		"logo": "https://english.b4uaflam.com/images/logo.png",
+		"name": "B4U Aflam",
+		"iptv": "http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8?checkedby:iptvcat.com"
+	}, {
+		"logo": "https://www.complaintsboard.com/img/business/126812/900x900/citruss-tv.jpg",
+		"name": "Citruss TV",
+		"iptv": "https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8?checkedby:iptvcat.com"
+	}, {
+		"logo": "https://static-s.aa-cdn.net/img/gp/20600000110081/Wof7SPgftpuslskYJt9ZC3G8EHqN1qE1hBU6y4RrP7nS6N3epioe-_OiJ0_k_zQYwh6s=w300",
+		"name": "Cartoon Network",
+		"iptv": "http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8?checkedby:iptvcat.com"
+	}, {
+		"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7zbte1H0fM-Vdy045d84RFaaO1Mipnss8xV14cc3nU8l2HTCT&usqp=CAU",
+		"name": "Cinema 1",
+		"iptv": "http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8?checkedby:iptvcat.com"
+	}, {
+		"logo": "https://cdn.sat.tv/wp-content/uploads/2017/04/DubaiOneTV.png",
+		"name": "Dubai One",
+		"iptv": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione&checkedby:iptvcat.com"
+	}, {
+		"logo": "https://pbs.twimg.com/profile_images/1225458959697530884/9b6y_bZI.jpg",
+		"name": "Dubai Racing",
+		"iptv": "http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:iptvcat.com"
+	}, {
+		"logo": "https://i7.pngflow.com/pngimage/459/811/png-dubai-sports-dubai-tv-television-dubai-television-text-sport-logo-clipart.png",
+		"name": "Dubai Sports",
+		"iptv": "https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8?checkedby:iptvcat.com"
+	}, {
+		"logo": "https://i.imgur.com/9e2Nbpc.png",
+		"name": "Dubai Sports 2",
+		"iptv": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2&checkedby:iptvcat.com"
+	}, {
+		"logo": "https://1.bp.blogspot.com/-50YNNnj_RYY/XTHCCOTHTBI/AAAAAAAAD-k/0h06tboZGtA1WWX7vR1uSIs7iuRdd1g2gCEwYBhgL/s1600/2019-07-18_112231.png",
+		"name": "Dubai Sports 3",
+		"iptv": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3&checkedby:iptvcat.com"
+	}, {
+		"logo": "https://www.kindpng.com/picc/m/281-2816760_transparent-dubai-png-dubai-tv-png-download.png",
+		"name": "Dubai TV",
+		"iptv": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv&checkedby:iptvcat.com"
+	}, {
+		"logo": "https://live-tv-channels.org/pt-data/uploads/logo/ae-dubai-zaman.jpg",
+		"name": "Dubai Zaman",
+		"iptv": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman&checkedby:iptvcat.com"
+	}, {
+		"logo": "https://1.bp.blogspot.com/-LSxa9Jx3QWI/VCVywdWayEI/AAAAAAAABm8/ROBwu2PlzZs/s1600/imagine-movies.jpg",
+		"name": "Imagine Movies",
+		"iptv": "http://95.170.215.109/hls/Imagine-M-Backup-M.m3u8?checkedby:iptvcat.com"
+	}, {
+		"logo": "https://img.favpng.com/18/15/12/moka-rodrigues-mauritius-broadcasting-corporation-television-channel-mbc-1-png-favpng-9mDCd5FQ76bG2KBmQjKwEjZBq.jpg",
+		"name": "MBC 1 HD",
+		"iptv": "http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8"
+	},
+	{
+		"logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png",
+		"name": "MBC 2 HD",
+		"iptv": "http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8"
+	},
+	{
+		"logo": "https://www.mbc.net/.imaging/stk/mbc/photo-mod4/media/Photos/2012/September/week08/MBC3/original/0064b4339a6a08699729ac5ce4245e5a6f88c863/MBC3.jpg",
+		"name": "MBC 3 HD",
+		"iptv": "http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8"
+	},
+	{
+		"logo": "https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png",
+		"name": "MBC 4 HD",
+		"iptv": "http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8"
+	},
+	{
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png",
+		"name": "MBC MAX HD",
+		"iptv": "http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8"
+	},
+	{
+		"logo": "https://i.pinimg.com/564x/8d/e2/4a/8de24a155e2152c225375f0b4dc51ca5.jpg",
+		"name": "MBC ACTION HD",
+		"iptv": "http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8"
+	},
+	{
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png",
+		"name": "MBC MASR HD",
+		"iptv": "http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8"
+	},
+	{
+		"logo": "https://cdn.sat.tv/wp-content/uploads/2017/03/MBCDrama.png",
+		"name": "MBC DRAMA",
+		"iptv": "http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8"
+	},
+	{
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/7/79/MBC_BOLLYWOOD.png",
+		"name": "MBC BOLLYWOOD",
+		"iptv": "http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8"
+	}, {
+		"logo": "https://teleon.fra1.digitaloceanspaces.com/logo/osn_music_now.png",
+		"name": "Music Now",
+		"iptv": "http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8?checkedby:iptvcat.com"
+	}, {
+		"logo": "https://i.pinimg.com/originals/91/dd/91/91dd91054733205b620a723f31e80cdb.png",
+		"name": "National Geographic Abu Dhabi",
+		"iptv": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv&checkedby:iptvcat.com"
+	}, {
+		"logo": "https://pbs.twimg.com/profile_images/754573256665997312/T4ATpb5Q_400x400.jpg",
+		"name": "Noor Dubai",
+		"iptv": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv&checkedby:iptvcat.com"
+	}, {
+		"logo": "https://live-tv-channels.org/pt-data/uploads/logo/ae-dubai-zaman.jpg",
+		"name": "Dubai Zaman",
+		"iptv": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman&checkedby:iptvcat.com"
+	}, {
+		"logo": "https://i.pinimg.com/736x/e8/ee/54/e8ee5423590f763acf97bf1d33564510.jpg",
+		"name": "SHARJAH SPORTS HD",
+		"iptv": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8?checkedby:iptvcat.com"
+	}, {
+		"logo": "https://live-tv-channels.org/pt-data/uploads/logo/ae-sharjah-tv.jpg",
+		"name": "SHARJAH TV",
+		"iptv": "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?checkedby:iptvcat.com"
+	}, {
+		"logo": "https://seeklogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg",
+		"name": "Star Movies",
+		"iptv": "http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?checkedby:iptvcat.com"
+	}, {
+		"logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Star_World_2016_logo.png/200px-Star_World_2016_logo.png",
+		"name": "Star World",
+		"iptv": "http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?checkedby:iptvcat.com"
+	}, {
+		"logo": "https://live-tv-channels.org/pt-data/uploads/logo/ae-sama-dubai-9922.jpg",
+		"name": "Sama Dubai",
+		"iptv": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai&checkedby:iptvcat.com"
+	}, {
+		"logo": "https://www.1arablive.com/livetv/assets/images/1546446201.jpg",
+		"name": "Sharqiya from Kalba TV",
+		"iptv": "http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8?checkedby:iptvcat.com"
+	}, {
+		"logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
+		"name": "Spacetoon",
+		"iptv": "http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8?checkedby:iptvcat.com"
+	}, {
+		"logo": "https://cdn.sat.tv/wp-content/uploads/2016/05/YasSports.png",
+		"name": "Yas TV",
+		"iptv": "https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv&checkedby:iptvcat.com"
+	}
+]
