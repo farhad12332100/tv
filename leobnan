@@ -1,0 +1,69 @@
+[{
+	"logo": "https://cdn-radiotime-logos.tunein.com/s212875q.png",
+	"name": "Aghani",
+	"iptv": "http://livecdnh1.tvanywhere.ae/hls/aghani/04.m3u8?checkedby:iptvcat.com"
+}, {
+	"logo": "http://livecdnh3.tvanywhere.ae/hls/jadeed/01.m3u8?checkedby:iptvcat.com",
+	"name": "Al Jadeed HD",
+	"iptv": "http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=1053886998&checkedby:iptvcat.com"
+}, {
+	"logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg",
+	"name": "Al Jadeed SD",
+	"iptv": "http://livecdnh3.tvanywhere.ae/hls/jadeed/03.m3u8?checkedby:iptvcat.com"
+}, {
+	"logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/New_Al-Manar_logo.PNG/200px-New_Al-Manar_logo.PNG",
+	"name": "Al Manar",
+	"iptv": "https://manar.live/x.smil/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com"
+}, {
+	"logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Al-mayadeen_logo.jpg/220px-Al-mayadeen_logo.jpg",
+	"name": "Al Mayadeen",
+	"iptv": "http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8?checkedby:iptvcat.com"
+}, {
+	"logo": "https://pbs.twimg.com/profile_images/771098081/logo_400x400.JPG",
+	"name": "Arabica Music SD",
+	"iptv": "http://livecdnh2.tvanywhere.ae/hls/arabica_music/04.m3u8?checkedby:iptvcat.com"
+},{
+	"logo": "https://pbs.twimg.com/profile_images/771098081/logo_400x400.JPG",
+	"name": "Arabica Music HD",
+	"iptv": "http://95.170.215.109/hls/m3u8/Arabica-Backup.m3u8?checkedby:iptvcat.com"
+}, {
+	"logo": "https://pbs.twimg.com/profile_images/943433963514851328/NWP7OQ24_400x400.jpg",
+	"name": "CharityTV",
+	"iptv": "http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8?checkedby:iptvcat.com"
+}, {
+	"logo": "https://vignette.wikia.nocookie.net/logopedia/images/9/9d/LBC_INTERNATIONAL.png/revision/latest/scale-to-width-down/340?cb=20150915013834",
+	"name": "LBC International",
+	"iptv": "http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8?checkedby:iptvcat.com"
+}, {
+	"logo": "https://pbs.twimg.com/profile_images/3382654135/3dc3ecab07ddadf155b0fa1ec0132def_400x400.jpeg",
+	"name": "LDC",
+	"iptv": "http://95.170.215.109:80/hls/m3u8/LDC-Backup.m3u8?checkedby:iptvcat.com"
+}, {
+	"logo": "https://i.pinimg.com/originals/fa/77/20/fa77202d8aa6a2be709c9d3a893d4e90.jpg",
+	"name": "MTV Lebanon",
+	"iptv": "http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8?checkedby:iptvcat.com"
+}, {
+	"logo": "http://teleon.tv/images/logos/nour_el_koddass_lb.png",
+	"name": "Nour Al Koddas",
+	"iptv": "https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8?checkedby:iptvcat.com"
+}, {
+	"logo": "https://image.mysatgo.com/resize-width/400//content/G/co/36/Thumbnail.png?v=636557984310898243",
+	"name": "Nour Al Shabab",
+	"iptv": "https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8?checkedby:iptvcat.com"
+}, {
+	"logo": "https://www.altkiasat.com/wp-content/uploads/2015/09/%D9%82%D9%86%D8%A7%D8%A9-%D9%86%D9%88%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D9%82.jpg",
+	"name": "Nour Al Sharq",
+	"iptv": "https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8?checkedby:iptvcat.com"
+}, {
+	"logo": "https://pbs.twimg.com/profile_images/1224712471631536136/H-Ne80e9_400x400.jpg",
+	"name": "NourSAT",
+	"iptv": "https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8?checkedby:iptvcat.com"
+}, {
+	"logo": "https://lebanonvoyager.com/temp/wp-content/uploads/2018/04/otv.jpg",
+	"name": "OTV",
+	"iptv": "http://livecdnh2.tvanywhere.ae/hls/otv_leb/04.m3u8?checkedby:iptvcat.com"
+}, {
+	"logo": "https://yt3.ggpht.com/a-/AAuE7mAAh_J30oVhuemGVd_Q63ggw26UqTGLyd3Fhw=s240-mo-c-c0xffffffff-rj-k-no",
+	"name": "Taha TV",
+	"iptv": "http://95.170.215.109/hls/TAHA-Backup-M.m3u8?checkedby:iptvcat.com"
+}]
