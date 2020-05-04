@@ -1,0 +1,616 @@
+[
+{
+  "iptv": "http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "13 TV"
+},
+{
+  "iptv": "http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "24 Horas"
+},
+{
+  "iptv": "http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "24 Horas"
+},
+{
+  "iptv": "http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "25 TV"
+},
+{
+  "iptv": "http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "7 Murcia,sp:Murcia"
+},
+{
+  "iptv": "http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "7 Murcia"
+},
+{
+  "iptv": "https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "A Punt"
+},
+{
+  "iptv": "http://5.39.65.105/hls/alacantixa.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Alacanti TV,Channel 23"
+},
+{
+  "iptv": "http://217.182.77.27/live/alcarriatv-livestream.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Alcarria TV"
+},
+{
+  "iptv": "https://livestartover-i.akamaized.net/antena3/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Antena 3"
+},
+{
+  "iptv": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Aragón TV,Arag�n TV"
+},
+{
+  "iptv": "https://pastebin.com/raw/jf3NxqPs?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Be Mad"
+},
+{
+  "iptv": "https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Be Mad"
+},
+{
+  "iptv": "https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Be Mad"
+},
+{
+  "iptv": "https://pastebin.com/raw/afgk7wAC?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Boing"
+},
+{
+  "iptv": "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Boing"
+},
+{
+  "iptv": "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Boing"
+},
+{
+  "iptv": "https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Cadena Elite"
+},
+{
+  "iptv": "http://ventdelnord.tv:8080/escala/directe.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Canal 10 Emporda,Emporda TV"
+},
+{
+  "iptv": "http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Canal 25 Barbastro"
+},
+{
+  "iptv": "https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Canal 33 Madrid"
+},
+{
+  "iptv": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Canal 4 Mancha Centro"
+},
+{
+  "iptv": "https://cdn01.yowi.tv/VI76V4AZS4/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Canal 56"
+},
+{
+  "iptv": "https://cdn01.yowi.tv/VI76V4AZS4/live-1000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Canal 56"
+},
+{
+  "iptv": "http://canalmalaga-tv-live.flumotion.com/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Canal Málaga"
+},
+{
+  "iptv": "http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Canal Málaga,Canal M�laga"
+},
+{
+  "iptv": "http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Canal Parlamento,Canal Parlamento (Opt-2)"
+},
+{
+  "iptv": "http://common01.todostreaming.es/live/sanroque-livestream.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Canal San Roque"
+},
+{
+  "iptv": "https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Canal d"
+},
+{
+  "iptv": "http://stream.canalcostatv.es:1935/web/IKbtqOuj/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Canalcosta TV,Channel 44"
+},
+{
+  "iptv": "http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Canaria SAT"
+},
+{
+  "iptv": "https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Channel 19,Telecinco"
+},
+{
+  "iptv": "http://infantil-crtvg.flumotion.com/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Channel 20,TVG Infantil"
+},
+{
+  "iptv": "http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Condavision"
+},
+{
+  "iptv": "https://pastebin.com/raw/nUFDnkws?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Cuatro"
+},
+{
+  "iptv": "https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Cuatro"
+},
+{
+  "iptv": "https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Cuatro"
+},
+{
+  "iptv": "https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Distrito TV"
+},
+{
+  "iptv": "https://pastebin.com/raw/DdABja2w?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Divinity"
+},
+{
+  "iptv": "https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Divinity"
+},
+{
+  "iptv": "https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Divinity"
+},
+{
+  "iptv": "https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Divinity"
+},
+{
+  "iptv": "http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "EITB"
+},
+{
+  "iptv": "http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-b.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "EITB,sp:MurciaETB Sat"
+},
+{
+  "iptv": "http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "EITB,ETB Sat"
+},
+{
+  "iptv": "http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "EITB"
+},
+{
+  "iptv": "https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "ETB 1"
+},
+{
+  "iptv": "https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-b.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "ETB 2"
+},
+{
+  "iptv": "http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "ETB 2"
+},
+{
+  "iptv": "http://stream.teleonuba.es:1935/live/GdZpE8ef/chunklist_w1202791317.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Ecija Comarca TV"
+},
+{
+  "iptv": "https://streaming.elche7tv.es/hls/canal1.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Elche 7TV"
+},
+{
+  "iptv": "https://pastebin.com/raw/AXvzQiid?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Energy"
+},
+{
+  "iptv": "https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Energy"
+},
+{
+  "iptv": "https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Energy"
+},
+{
+  "iptv": "https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "FDF"
+},
+{
+  "iptv": "https://pastebin.com/raw/WDb2J2pN?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "FDF"
+},
+{
+  "iptv": "https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "FDF"
+},
+{
+  "iptv": "http://america-crtvg.flumotion.com/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Galicia TV América"
+},
+{
+  "iptv": "http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "HD"
+},
+{
+  "iptv": "http://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Hamaika Telebista"
+},
+{
+  "iptv": "https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Huesca TV"
+},
+{
+  "iptv": "http://interalmeria.tv/directo/live.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Interalmeria TV"
+},
+{
+  "iptv": "https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Intereconomia TV"
+},
+{
+  "iptv": "http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "La 1"
+},
+{
+  "iptv": "http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "La 1"
+},
+{
+  "iptv": "http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "La Otra"
+},
+{
+  "iptv": "https://livestartover-i.akamaized.net/lasexta/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "La Sexta"
+},
+{
+  "iptv": "https://pull12.atresmedia.com/lavoz/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "La Voz 24h"
+},
+{
+  "iptv": "http://62.210.141.18:1935/directo/lancelot.television/live.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Lancelot TV"
+},
+{
+  "iptv": "http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Lebrija TV"
+},
+{
+  "iptv": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Madird tv,Real Madrid,Real Madrid TV,REAL MADRID TV HD"
+},
+{
+  "iptv": "http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Mas 24 Horas"
+},
+{
+  "iptv": "http://mijas.hls.flumotion.com/mijas/live-hls/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Mijas 3.40 TV"
+},
+{
+  "iptv": "http://ventdelnord.tv:8080/mola/directe.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Mola TV"
+},
+{
+  "iptv": "http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Onda Cádiz"
+},
+{
+  "iptv": "http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Onda Madrid"
+},
+{
+  "iptv": "http://149.91.98.146:1935/cordoba/stream/chunklist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "PTV Cordoba"
+},
+{
+  "iptv": "https://secure.todostreaming.es/live/ptvcantabria-livestream.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Popular TV Cantabria"
+},
+{
+  "iptv": "https://5940924978228.streamlock.net/8009/8009/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Popular TV Melilla"
+},
+{
+  "iptv": "https://5940924978228.streamlock.net/8009/8009/chunklist_w922827150.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Popular TV Melilla"
+},
+{
+  "iptv": "https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Real Madrid,Real Madrid HD EN,REAL MADRID TV"
+},
+{
+  "iptv": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0450_av-p.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "REAL MADRID TV ESP"
+},
+{
+  "iptv": "https://cdnlive.shooowit.net/rtpalive/smil:directo.smil/chunklist_b1500000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "RTPA Asturias"
+},
+{
+  "iptv": "http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "RTVCE"
+},
+{
+  "iptv": "http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "RTVCE"
+},
+{
+  "iptv": "http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "RTVE"
+},
+{
+  "iptv": "http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/bitrate_2.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Radio Onda Madrid"
+},
+{
+  "iptv": "https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Real Madrid,Real Madrid HD"
+},
+{
+  "iptv": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Real Madrid TV"
+},
+{
+  "iptv": "http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Real Madrid TV"
+},
+{
+  "iptv": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Real Madrid TV"
+},
+{
+  "iptv": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Real Madrid TV"
+},
+{
+  "iptv": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Real Madrid TV (English)"
+},
+{
+  "iptv": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Real Madrid TV (English)"
+},
+{
+  "iptv": "http://common01.todostreaming.es/live/ribera-livestream.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "RiberaTV"
+},
+{
+  "iptv": "https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Sophia TV"
+},
+{
+  "iptv": "https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "TPA 7"
+},
+{
+  "iptv": "http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "TV Municipal Cordoba"
+},
+{
+  "iptv": "https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "TV4 La Vall"
+},
+{
+  "iptv": "http://europa-crtvg.flumotion.com/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "TVG,TVG (Opt-1)"
+},
+{
+  "iptv": "http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "TVG"
+},
+{
+  "iptv": "http://events2-crtvg.flumotion.com/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "TVG 2"
+},
+{
+  "iptv": "http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "TVG América"
+},
+{
+  "iptv": "http://cultural-crtvg.flumotion.com/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "TVG Cultural"
+},
+{
+  "iptv": "http://events1-crtvg.flumotion.com/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "TVG Evento 1"
+},
+{
+  "iptv": "http://momentog-crtvg.flumotion.com:80/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "TVG Momento"
+},
+{
+  "iptv": "http://momentog-crtvg.flumotion.com/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "TVG Momento,TVG Momentos G"
+},
+{
+  "iptv": "http://musigal-crtvg.flumotion.com/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "TVG Musigal"
+},
+{
+  "iptv": "http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Taroteame TV"
+},
+{
+  "iptv": "http://video.telesafor.com/hls/video_low.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "TeleSafor"
+},
+{
+  "iptv": "http://video.telesafor.com/hls/video_high.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "TeleSafor"
+},
+{
+  "iptv": "https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Telearanda"
+},
+{
+  "iptv": "https://pastebin.com/raw/455ygZ6Y?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Telecinco"
+},
+{
+  "iptv": "https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Telecinco"
+},
+{
+  "iptv": "http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Telemadrid"
+},
+{
+  "iptv": "http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Teleonuba"
+},
+{
+  "iptv": "http://5.189.181.203:1935/gcm4/gcm4/chunklist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Televigo"
+},
+{
+  "iptv": "http://ventdelnord.tv:8080/girona/directe.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Televisio Girona"
+},
+{
+  "iptv": "https://wowzaprod256-i.akamaihd.net/hls/live/779970/7e9bac89/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Trebujena TV"
+},
+{
+  "iptv": "http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Trece"
+},
+{
+  "iptv": "https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Urola Telebista"
+},
+{
+  "iptv": "http://185.29.68.24/tvb.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "Vega Baja TV"
+},
+{
+  "iptv": "https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+  "name": "mtmad 24h"
+}]
