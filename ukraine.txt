@@ -1,0 +1,971 @@
+[
+{
+  "iptv": "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "100% News"
+},
+{
+  "iptv": "http://real-g2.sobor.net/hls-live/live/_definst_/liveevent/livestream.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "11 канал"
+},
+{
+  "iptv": "http://212.3.106.230/hls-live/live/_definst_/liveevent/livestream.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "11 канал (Днепр)"
+},
+{
+  "iptv": "http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "112 Украина"
+},
+{
+  "iptv": "http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "112 Украина"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "112 Україна,112 Украина"
+},
+{
+  "iptv": "http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "112 Украина HD"
+},
+{
+  "iptv": "http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "112 Украина [FHD]"
+},
+{
+  "iptv": "http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "112 Украина [FHD]"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua:80/api/v1/manifest/1442908080.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "112 Україна"
+},
+{
+  "iptv": "http://app.live.112.events/hls/112hd_mid/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "112 Україна"
+},
+{
+  "iptv": "http://app.live.112.events/hls/112hd_hi/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "112 Україна"
+},
+{
+  "iptv": "http://app.live.112.events/hls-ua/112hd_mid/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "112 Україна"
+},
+{
+  "iptv": "http://app.live.112.events/hls-ua/112hd_hi/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "112 Україна"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "24 канал"
+},
+{
+  "iptv": "http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "34 канал"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "4 канал,4 канал Украина"
+},
+{
+  "iptv": "http://95.67.106.10/hls/nta_ua_mid/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "4 канал"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua:80/api/v1/manifest/2118742331.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "4 канал"
+},
+{
+  "iptv": "http://95.67.106.10/hls/nta_ua_low/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "4 канал"
+},
+{
+  "iptv": "http://95.67.106.10/hls/nta_ua_hi/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "4 канал"
+},
+{
+  "iptv": "http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "7 канал (Одесса)"
+},
+{
+  "iptv": "https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr-lq/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "7 канал Одесса"
+},
+{
+  "iptv": "https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr/7tvod/7tvod/chunks.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "7 канал Одесса HD"
+},
+{
+  "iptv": "http://212.115.229.81:1935/out/9tv_fb/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "9 Канал (Днепр)"
+},
+{
+  "iptv": "http://stream.atr.ua/atr/live/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "ATR"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "ATR,ATR [576p]"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "BamBarBia TV"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "BamBarBia TV"
+},
+{
+  "iptv": "http://live-blackseatv.cdnvideo.ru/blackseatv/blackseatv.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Black Sea TV"
+},
+{
+  "iptv": "http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0038_nd)/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Boutique TV"
+},
+{
+  "iptv": "http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "CNL (Европа)"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Donbas,UA:Донбас,Донбас"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "ECO TV,EKO TV,Еко TV"
+},
+{
+  "iptv": "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Eurosport 4K"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "GTV"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "GTV"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Galichina,ОТБ Галичина"
+},
+{
+  "iptv": "http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "HD Fashion & Lifestyle TV"
+},
+{
+  "iptv": "http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "HD Fashion & Lifestyle [FHD]"
+},
+{
+  "iptv": "http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "HDFashion & LifeStyle"
+},
+{
+  "iptv": "http://lb1.macc.com.ua/img/ntn_2/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "HTH (Reserve2)"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/139947023.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Hromadske TV (HD),Громадське HD"
+},
+{
+  "iptv": "http://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Inter TV"
+},
+{
+  "iptv": "https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Iнтер"
+},
+{
+  "iptv": "http://109.68.41.148:1935/live/inter_3/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Iнтер"
+},
+{
+  "iptv": "http://109.68.40.67:80/life/k1_3/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "K1"
+},
+{
+  "iptv": "http://109.68.40.67/life/k1.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "K1"
+},
+{
+  "iptv": "http://edge3.iptv.macc.com.ua/life/k1.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "K1 (Reserve)"
+},
+{
+  "iptv": "https://edge2.iptv.macc.com.ua/life/k1_2/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "K1 (Reserve2)"
+},
+{
+  "iptv": "http://iptv.rubintele.com:8552/play/a008?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "KRATU"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "KRT,КРТ"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Kultura,UA Культура,UA:Культура"
+},
+{
+  "iptv": "http://stream.atr.ua/lale//live/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Lale"
+},
+{
+  "iptv": "http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Leomax 24"
+},
+{
+  "iptv": "http://c0.cdn.trinity-tv.net/stream/uq2t763988wmx82xs37vrzrtrvaz686y22jd9gcgvgbhu88g6dntdb82kggx9zgvpvwj5wisyi5mgwwgdqzm7d6xbf7yvctwzvhsu3t57ms3wa4qxwyeuqk3ayrdwx3k2b6cdtnrydx9qa3ezqzea===.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "MGM HD"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Maxxi-TV,Маxxi TV,Макси/НАШ,НАШ"
+},
+{
+  "iptv": "http://w4.mostvideo.tv/tv/ch1.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "MostVideo TV"
+},
+{
+  "iptv": "https://cdn1.mobiletv.bg/T14/ATV/ngc_wild_hd/ngc_wild_hd_ATV987654321.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "NAT GEO WILD HD"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "NewsOne"
+},
+{
+  "iptv": "https://bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "NewsOne"
+},
+{
+  "iptv": "http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Nickelodeon HD"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "O TV MUSIC,OTV,OTV Music"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua:80/api/v1/manifest/1293297500.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "O-TV"
+},
+{
+  "iptv": "http://cdn10.live-tv.od.ua:8081/ofod/ofod240p/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Odessa Fashion"
+},
+{
+  "iptv": "http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Odessa Fashion TV"
+},
+{
+  "iptv": "http://ott.watch/stream/E7Q3UVKI5H/211.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Outdoor HD"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "RAI,РАІ"
+},
+{
+  "iptv": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Red Bull TV,Red Bull TV HD"
+},
+{
+  "iptv": "http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Renome (Одесса)"
+},
+{
+  "iptv": "http://hls.simon.ua/live-HD/live/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Simon"
+},
+{
+  "iptv": "http://hls.simon.ua/live-HD/live/playlist_dvr.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Simon TV (Харьков)"
+},
+{
+  "iptv": "https://open-cdn.lanet.tv/live/1008.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Skrypin UA"
+},
+{
+  "iptv": "http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Star Cinema HD"
+},
+{
+  "iptv": "http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Star Family HD"
+},
+{
+  "iptv": "http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "TBN HD Украина"
+},
+{
+  "iptv": "https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "TV5 (Запорожье) (Reserve)"
+},
+{
+  "iptv": "http://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/chunklist_w898856001.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "TV5 (Запоріжжя)"
+},
+{
+  "iptv": "http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "TV5 Запорожье"
+},
+{
+  "iptv": "http://hls.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "TV5 Запорожье"
+},
+{
+  "iptv": "http://tv7plus.com/hls/tv7_site.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "TV7+ (Хмельницький)"
+},
+{
+  "iptv": "http://tv7plus.com/hls/tv7.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "TV7+ (Хмельницький)"
+},
+{
+  "iptv": "http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Travel Guid-TV"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "UA TV,UATV"
+},
+{
+  "iptv": "http://95.67.106.242:80/hls/ua-tv_ua_mid/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "UA TV (Reserve2)"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua:80/api/v1/manifest/2118742462.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "UA ЗАКАРПАТТЯ"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "UA Крым,UA:Крим"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "UA Одесса,UA:Одеса"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "UA Перший,UA:Перший"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "UA:Закарпаття"
+},
+{
+  "iptv": "https://ua-tv-hls3.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "UATV"
+},
+{
+  "iptv": "http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "UATV"
+},
+{
+  "iptv": "http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "UATV"
+},
+{
+  "iptv": "http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Ultra HD Cinema"
+},
+{
+  "iptv": "http://hls.trinity-tv.net/stream/35ezf2h3bj9357zqtaq7ct8jk38ukffg6jyn6n36m6pj5wtybv5g4ygdrxmrxcgnr34vvn82nqy8gmwpvpr5nwcfxk8vnwshhny3nxnfk8n8dcmqf57k9ddxe5gu8d6md5fqqfty463494yyxngkq===.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Viasat History HD"
+},
+{
+  "iptv": "http://c0.cdn.trinity-tv.net/stream/nwsjexhdi7k5xs2ckauzm7k5v759gbqrz2gw6gwnxtfgkfmemfjcgbnfx44954seezpt9z3gvu7u7xze8my57y7yddkqsutzqk6yne3xf5idpv4yemchyerpvzrg39keuym7vtgmanusygj54xx39ess3i======.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Viasat Sport HD"
+},
+{
+  "iptv": "http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Viasat Sport HD"
+},
+{
+  "iptv": "https://stream.ztv.zp.ua/hls/live.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Z (Запорожье)"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "А1 (Одесса)"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "А1 (Одесса)"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "А1 (Одесса)"
+},
+{
+  "iptv": "https://rtmp.radiogroup.com.ua:8080/live/avto/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Авторадио [UA] (Веб-камера)"
+},
+{
+  "iptv": "http://arhat.tv/public/720p/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Архат ТВ"
+},
+{
+  "iptv": "http://194.50.51.34/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Балта ТВ"
+},
+{
+  "iptv": "http://iptv.rubintele.com:8552/play/a007?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "ВТВ-Плюс (Reserve)"
+},
+{
+  "iptv": "http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Возрождение"
+},
+{
+  "iptv": "http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist_w1303998472.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Возрождение"
+},
+{
+  "iptv": "http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Глас"
+},
+{
+  "iptv": "http://195.138.81.101:8081/hls_sec/239.0.4.18-.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Глас (Одесса)"
+},
+{
+  "iptv": "http://91.194.78.165:8810/hls_sec/239.0.19.20-.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Град"
+},
+{
+  "iptv": "http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Громадське"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua:80/api/v1/manifest/1311274061.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Донбас"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Думская TV"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Думская TV"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr-lq/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Думская ТВ (Одеса)"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Еспресо TV"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Здоровье (Одесса)"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Здоровье (Одесса)"
+},
+{
+  "iptv": "http://109.68.41.148:1935/live/inter_2/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Интер"
+},
+{
+  "iptv": "http://lb1.macc.com.ua/img/inter_2/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Интер (Reserve2)"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua:80/api/v1/manifest/2118742409.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "КРИМ"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua:80/api/v1/manifest/1311962540.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "КУЛЬТУРА"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Київ TV,Киев ТВ"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua:80/api/v1/manifest/1298864660.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Киевская Русь"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Круг"
+},
+{
+  "iptv": "http://live.m2.tv/hls/stream.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "М1"
+},
+{
+  "iptv": "http://live.m2.tv/hls3/stream.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "М2"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Малятко TV,Малятко ТВ"
+},
+{
+  "iptv": "https://live.mariupolskoe.tv:8888/ramdisk/livestream1.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Мариупольское ТВ (Украина)"
+},
+{
+  "iptv": "http://stream.ntktv.ua/s/ntk/ntk.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "НТК"
+},
+{
+  "iptv": "https://stream.ntktv.ua/s/ntk/ntk.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "НТК Украина"
+},
+{
+  "iptv": "https://edge2.iptv.macc.com.ua/img/ntn_3/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "НТН"
+},
+{
+  "iptv": "http://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "НТН"
+},
+{
+  "iptv": "http://109.68.41.148:1935/live/ntn_2/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "НТН"
+},
+{
+  "iptv": "https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "НТН"
+},
+{
+  "iptv": "http://109.68.41.148:1935/live/ntn_3/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "НТН"
+},
+{
+  "iptv": "http://nadiya.home-net.com.ua/mob/mystream.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Надия/Новый канал"
+},
+{
+  "iptv": "http://stream.hope.ua/hopeua/live_1/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Надія"
+},
+{
+  "iptv": "http://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelUkraine_1@432955/index_700_av-p.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Надія"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/riood/riood-abr/riood/riood/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Одеса"
+},
+{
+  "iptv": "http://ftp.orbita.dn.ua/hls/orbita.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Орбита"
+},
+{
+  "iptv": "http://sovenst.ddns.net/1?token=UHnbFHReKr&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "ПЕРВЫЙ КАНАЛ"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua:80/api/v1/manifest/871803891.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "ПЕРШИЙ"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr-lq/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Первый Городской (Одеса)"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/1tvod/1tvod/chunks.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Первый Городской (Одесса)"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Первый городской (Кривой Рог)"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Первый городской (Кривой Рог)"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Первый городской (Одесса)"
+},
+{
+  "iptv": "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Первый городской (Одесса)"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua:80/api/v1/manifest/2118742404.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Перший"
+},
+{
+  "iptv": "http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Перший Західний (Львов)"
+},
+{
+  "iptv": "http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Перший Західний (Львов)"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/2118742459.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Перший Західний (Львов)"
+},
+{
+  "iptv": "http://pravdatytkievshina-hls1.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Правда ТУТ HD (Киев)"
+},
+{
+  "iptv": "http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "ПравдаТУТ"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua:80/api/v1/manifest/2118742405.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Промінь"
+},
+{
+  "iptv": "http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Прямий"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Прямий,Прямой"
+},
+{
+  "iptv": "http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Прямой"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Рада,Рада ТВ"
+},
+{
+  "iptv": "https://rtmp.radiogroup.com.ua:8080/live/jam/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Радио Джем FM [UA] (Веб-камера)"
+},
+{
+  "iptv": "http://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Радио Люкс"
+},
+{
+  "iptv": "https://rtmp.radiogroup.com.ua:8080/live/pt/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Радио Пятница [UA] (Веб-камера)"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Репортер"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Репортер"
+},
+{
+  "iptv": "http://134.249.128.243/hls/stream_FHD.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Рудана"
+},
+{
+  "iptv": "https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/chunks.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "СК1 HD (Житомир)"
+},
+{
+  "iptv": "http://tv.tv-project.com:1935/live/live1/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Сварожичи"
+},
+{
+  "iptv": "http://80.91.177.102:1935/live/live1/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Сварожичи"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Сонце"
+},
+{
+  "iptv": "http://85.238.112.69:8811/hls_sec/239.0.58.39-.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Страна советов"
+},
+{
+  "iptv": "https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Сімон (Харків)"
+},
+{
+  "iptv": "http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "ТIС (Одесса)"
+},
+{
+  "iptv": "http://46.149.48.21:1234?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "ТВ-Дом (Одесса)"
+},
+{
+  "iptv": "http://78.26.128.21:8082/stream.flv?stream=133&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "ТВ-Дом (Украина)"
+},
+{
+  "iptv": "http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "ТВА (Чернiвцi)"
+},
+{
+  "iptv": "http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "ТВА (Чернiвцi)"
+},
+{
+  "iptv": "http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "ТВА Чернівці"
+},
+{
+  "iptv": "http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "ТИС ТВ"
+},
+{
+  "iptv": "http://46.46.112.223/live/livestream1.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "ТРК АЛЕКС"
+},
+{
+  "iptv": "http://live.rudana.com.ua/hls/stream_HD.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "ТРК Рудана (Кривой Рог)"
+},
+{
+  "iptv": "http://api.tv.ipnet.ua/api/v1/manifest/2007331741.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "ТРК Черноморская"
+},
+{
+  "iptv": "http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "ТРК Чернівці"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Третий Цифровой"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Третий Цифровой"
+},
+{
+  "iptv": "http://46.175.163.130/ks_plus/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Херсон Плюс"
+},
+{
+  "iptv": "http://iptv.rubintele.com:8552/play/a001?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Херсон плюс"
+},
+{
+  "iptv": "http://109.68.40.67/life/magnolia_3/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "ЧП.iнфо"
+},
+{
+  "iptv": "http://109.68.40.67/life/magnolia.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "ЧП.iнфо"
+},
+{
+  "iptv": "http://langate.tv/promin/live_720/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Чернівецький Промінь"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/chunks.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Южная Волна HD"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-504/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Южная Волна ТВ (Одеса)"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Южная волна"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/383px-Flag_of_Ukraine.svg.png",
+  "name": "Южная волна"
+}]
