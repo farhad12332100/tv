@@ -1,0 +1,2576 @@
+[
+{
+  "iptv": "http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "1HD Music TV"
+},
+{
+  "iptv": "http://sc.id-tv.kz/31Kanal_36_37.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "31 канал,31 Канал (Казах)"
+},
+{
+  "iptv": "http://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "31 канал (Челябинск)"
+},
+{
+  "iptv": "http://video1.in-news.ru/360/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "360°"
+},
+{
+  "iptv": "http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "360°"
+},
+{
+  "iptv": "http://sochi-strk.ru:2015/43Kanal/mpegts?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "43 канал Туапсе"
+},
+{
+  "iptv": "http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "47 Канал"
+},
+{
+  "iptv": "http://176.99.110.252/stream8/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "8 Канал"
+},
+{
+  "iptv": "http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "8 Канал (Красноярск)"
+},
+{
+  "iptv": "https://sitv.ru/hls/s861024.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "86 канал (Сургут),Телеканал 86 (Сургут)"
+},
+{
+  "iptv": "https://sc.id-tv.kz/A2_38_39.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "A2"
+},
+{
+  "iptv": "http://89.106.234.4:80/amedia_2_38_39.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "A2 (Kaz)"
+},
+{
+  "iptv": "http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ACB TV"
+},
+{
+  "iptv": "http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ACB TV"
+},
+{
+  "iptv": "http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Almaty TV,Almaty TV (KZ)"
+},
+{
+  "iptv": "http://89.106.234.4:80/amedia_hit_hd_38_39.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Amedia Hit HD (Kaz)"
+},
+{
+  "iptv": "http://212.0.215.115/AnimalPl/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Animal Planet"
+},
+{
+  "iptv": "https://sc.id-tv.kz/Astana_38_39.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Astana TV,Astana TV (KZ)"
+},
+{
+  "iptv": "http://re.strah.video:1234/play/backustv?auth=zarin:RJsKR&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "BACKUS TV-Лимит 300 подключений"
+},
+{
+  "iptv": "http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Bmecte PO HD"
+},
+{
+  "iptv": "http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Bmecte Po HD"
+},
+{
+  "iptv": "http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Brics TV HD"
+},
+{
+  "iptv": "http://brodilo.tv/channel.php?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Brodilo.TV"
+},
+{
+  "iptv": "https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "CBC SPORT,CBS SPORT HD"
+},
+{
+  "iptv": "http://78.107.248.201:4022/udp/233.33.210.33:5050?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "CBS Reality"
+},
+{
+  "iptv": "http://autopilot.myowntv.org/content/36506/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "CCCP"
+},
+{
+  "iptv": "http://livefr.cgtn.com/1000r/prog_index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "CGTN Russian (Opt-2)"
+},
+{
+  "iptv": "https://russian-live.cgtn.com/data/d1/hls/17592_4.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "CGTN Russian (Opt-3)"
+},
+{
+  "iptv": "http://212.0.215.106/DTX/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "DTX"
+},
+{
+  "iptv": "http://212.0.215.106/Discovery/mpegts?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Discovery Channel"
+},
+{
+  "iptv": "http://212.0.215.106/Discovery/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Discovery Channel"
+},
+{
+  "iptv": "http://78.157.230.19/streaming/discovery/364/gpu_tvrecw/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Discovery Channel"
+},
+{
+  "iptv": "https://www.djing.com/tv/s-28634-05-hedonist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Djing Hedonist HD"
+},
+{
+  "iptv": "https://www.djing.com/tv/i-28634-04.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Djing Hits"
+},
+{
+  "iptv": "https://www.djing.com/tv/28638-04.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Djing TV"
+},
+{
+  "iptv": "https://www.djing.com/tv/s-28634-05-wild-edm.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Djing Wild EDM HD"
+},
+{
+  "iptv": "https://strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Earth TV HD"
+},
+{
+  "iptv": "http://hls.trinity-tv.net/stream/4zh7brpw5jhxwyy2m3x3y64n7628tqgs4ii6sgvid5mssvcafie2zdf6wjja5p7533wswqx7a4gk684eskfinyejxxqxqvu8jjdfb6k5d52zrab7ikvyjxm33csefu98ip97gb5apma2pe4m2enm2hka.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Epic Drama HD"
+},
+{
+  "iptv": "http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "EuroNews"
+},
+{
+  "iptv": "http://autopilot.myowntv.org/content/36987/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Eurodance 90"
+},
+{
+  "iptv": "https://autopilot.catcast.me/content/36987/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Eurodance 90"
+},
+{
+  "iptv": "http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Euronews"
+},
+{
+  "iptv": "http://212.0.215.106/Eurosport1HD/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Eurosport 1 RO"
+},
+{
+  "iptv": "https://hls.goodgame.ru/manifest/157239_master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "FAN HD"
+},
+{
+  "iptv": "http://195.9.195.3:8080/manifest/165462_master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "FILM TV"
+},
+{
+  "iptv": "https://hls.goodgame.ru/hls/165462.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "FILMS TV"
+},
+{
+  "iptv": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "FTV HD"
+},
+{
+  "iptv": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "FTV Teens"
+},
+{
+  "iptv": "http://rtmp.one.by:2300/?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "First Music (Opt-1)"
+},
+{
+  "iptv": "http://rtmp.one.by:1300/?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "First Music (Opt-2)"
+},
+{
+  "iptv": "http://212.0.215.106/Fox/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Fox"
+},
+{
+  "iptv": "http://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/index_0_av.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Fox Life"
+},
+{
+  "iptv": "http://212.0.215.106/FoxLife/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Fox Life"
+},
+{
+  "iptv": "http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "GlobalStar TV (New!)"
+},
+{
+  "iptv": "http://hls.goodgame.ru/hls/33226.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "HAW ТВ HD"
+},
+{
+  "iptv": "http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "HD Media"
+},
+{
+  "iptv": "http://serv25.vintera.tv:8081/HDMediaFree/hdm3d/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "HD Media 3D HD"
+},
+{
+  "iptv": "https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "HD КИНО"
+},
+{
+  "iptv": "https://hls.goodgame.ru/hls/12949_720.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "HD КИНО"
+},
+{
+  "iptv": "http://89.106.234.3:80/hdl_38_39.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "HDL"
+},
+{
+  "iptv": "http://78.157.230.19/streaming/history/364/gpu_tvrecw/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "History"
+},
+{
+  "iptv": "http://206.190.141.27:1935/live/impact/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Impact TV"
+},
+{
+  "iptv": "http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_5TV_URALIFORM_PERM/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "JTV"
+},
+{
+  "iptv": "http://rt-ural-krg-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_KURRU_URAL_KRG/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "KURGAN.RU (Курган)"
+},
+{
+  "iptv": "http://hls.goodgame.ru:8080/hls/172148.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "KVN-HD"
+},
+{
+  "iptv": "https://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/chunklist_w570851971.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Kabbalah TV Русский (Израиль)"
+},
+{
+  "iptv": "http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Krik TV"
+},
+{
+  "iptv": "https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Kronehit HD"
+},
+{
+  "iptv": "http://212.0.215.115/KvartalTV/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Kvartal TV"
+},
+{
+  "iptv": "http://tvshops.bonus-tv.ru:80/cdn/leomax/tracks-v1a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Leomax"
+},
+{
+  "iptv": "http://nano.teleservice.su:8080/hls/luxury.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Luxury,Luxury HD"
+},
+{
+  "iptv": "http://flavors-proxy.m1.tv//flavors/1/stream.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "M1 Classic"
+},
+{
+  "iptv": "http://online.mtvmix.ru:18092/ios/live.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "MTV (Уфа)"
+},
+{
+  "iptv": "http://81.30.182.82:18092/hls/live.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "MTVmix (Уфа)"
+},
+{
+  "iptv": "http://78.107.248.201:4022/udp/233.33.210.70:5050?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Music box gold"
+},
+{
+  "iptv": "http://nano.teleservice.su:8080/hls/nano.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Nano"
+},
+{
+  "iptv": "http://185.46.48.16/NANO/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Nano TV HD"
+},
+{
+  "iptv": "http://hls.goodgame.ru/hls/33226.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Naroddip"
+},
+{
+  "iptv": "http://188.35.9.5:10020/stolen/487n/hot.dll?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Nat Geo Wild (Резерв1)"
+},
+{
+  "iptv": "http://hls.goodgame.ru/hls/61358.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "NateRou"
+},
+{
+  "iptv": "http://188.35.9.5:10005/stolen/149u/imposter.rar?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "National Geographic Wild HD"
+},
+{
+  "iptv": "http://78.107.248.201:4022/udp/233.33.210.81:5050?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Nickelodeon"
+},
+{
+  "iptv": "http://12channel.bonus-tv.ru:80/stream549837052987/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ORTRK-12"
+},
+{
+  "iptv": "http://212.26.146.148/hls/otv.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "OTV Music"
+},
+{
+  "iptv": "http://91.192.168.242:9091?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Ocean TV"
+},
+{
+  "iptv": "http://rtmp.one.by:1499?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "One.by 4K"
+},
+{
+  "iptv": "https://hls.goodgame.ru/hls/12949.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "PZN TV"
+},
+{
+  "iptv": "http://serv30.vintera.tv:8081/lee/kontent1/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "PeaceMen HD"
+},
+{
+  "iptv": "Prosveshenie",
+  "logo": "http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/index.m3u8?checkedby:iptvcat.com",
+  "name": "Planeta"
+},
+{
+  "iptv": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Public TV of Armenia"
+},
+{
+  "iptv": "https://hls.goodgame.ru/hls/122431.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "RITSA TV"
+},
+{
+  "iptv": "https://rt-esp.secure.footprint.net/1102.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "RT,RT Español,RT Espa�ol"
+},
+{
+  "iptv": "https://rt-news.secure.footprint.net/1103.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "RT"
+},
+{
+  "iptv": "http://rt-arab.secure.footprint.net:80/1104.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "RT Arabic"
+},
+{
+  "iptv": "http://rt-esp.secure.footprint.net/1102.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "RT Español"
+},
+{
+  "iptv": "https://rt-doc.secure.footprint.net/1101.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "RT Д English"
+},
+{
+  "iptv": "https://rutv.gcdn.co/streams/1410_95/480n/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "RU TV"
+},
+{
+  "iptv": "http://rutv.gcdn.co/streams/1410_95/720n/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "RU TV HD"
+},
+{
+  "iptv": "http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "RU TV HD"
+},
+{
+  "iptv": "http://rutv.gcdn.co/streams/1410_95/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "RU TV HD"
+},
+{
+  "iptv": "https://rut-v.gcdn.co/streams/1410_95/720n/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "RU TV HD"
+},
+{
+  "iptv": "https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "RU.TV"
+},
+{
+  "iptv": "https://rutv.gcdn.co/streams/1410_95/1080n/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "RUTV"
+},
+{
+  "iptv": "http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Radost Moya"
+},
+{
+  "iptv": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Red Bull TV,Red Bull TV HD"
+},
+{
+  "iptv": "http://sochi.camera:8080/cam_256/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Russia 24 (Opt-1),Россия 24 (Сочи)"
+},
+{
+  "iptv": "http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Russian Music Box"
+},
+{
+  "iptv": "https://songtvru.ru/lhigh/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "SONG TV HD Russia"
+},
+{
+  "iptv": "http://songtvru.ru:8060/hd/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "SONG TV Russia"
+},
+{
+  "iptv": "https://songtvru.ru/hd/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "SONG TV Russia [FHD]"
+},
+{
+  "iptv": "https://songtvam.ru/hd/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "SONGTV HD Армения"
+},
+{
+  "iptv": "http://212.0.215.106/Setanta/mpegts?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Setanta"
+},
+{
+  "iptv": "http://212.0.215.115/Setanta1HD/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Setanta Sports 1 RU"
+},
+{
+  "iptv": "http://persik.tv/stream/7725/408679/10454.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Shot TV"
+},
+{
+  "iptv": "http://re.strah.video:1234/play/sky1000cinemahd?auth=zarin:RJsKR&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Sky1000 Cinema HD Лимит 300 подключений"
+},
+{
+  "iptv": "http://n1.slavmir.tv:1935/live/Cinegy.stream/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Slavmir.tv HD"
+},
+{
+  "iptv": "http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Sochi Live HD"
+},
+{
+  "iptv": "http://212.0.215.106/SonyTurbo/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Sony Turbo"
+},
+{
+  "iptv": "http://138.201.226.83:1935/public/stream_720p/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Sous FM"
+},
+{
+  "iptv": "http://212.0.215.106/Spike/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Spike"
+},
+{
+  "iptv": "http://212.0.215.106/Sport1/mpegts?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Sport 1"
+},
+{
+  "iptv": "http://212.0.215.115/Sport1/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Sport1"
+},
+{
+  "iptv": "http://212.0.215.115/StarCinema/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Star Cinema"
+},
+{
+  "iptv": "http://212.0.215.115/StarFamily/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Star Family"
+},
+{
+  "iptv": "http://212.0.215.106/TLC/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "TLC (MD)"
+},
+{
+  "iptv": "https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "TRACE GOSPEL"
+},
+{
+  "iptv": "https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "TRACE LATINA"
+},
+{
+  "iptv": "https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "TRACE SPORT STARS (звука нет)"
+},
+{
+  "iptv": "https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "TRACE URBAN"
+},
+{
+  "iptv": "http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "TV XXI (ВРТ)"
+},
+{
+  "iptv": "http://212.0.215.106/TV1000/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "TV1000 (резерв)"
+},
+{
+  "iptv": "http://212.0.215.106/TV1000Act/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "TV1000 Action (резерв)"
+},
+{
+  "iptv": "TV5MONDE",
+  "logo": "http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_4.m3u8?checkedby:iptvcat.com",
+  "name": "TV1000 ТРК ЭРОС КТВ-Волгоград"
+},
+{
+  "iptv": "http://149.154.68.132:8081/HOLA/stream/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "TVM Channel,TVMChannel"
+},
+{
+  "iptv": "http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "TnBnkom FHD"
+},
+{
+  "iptv": "http://tv-topshop.netrack.ru/hls/topshop.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Top Shop TV"
+},
+{
+  "iptv": "http://212.0.215.106/Travel/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Travel+Adventure"
+},
+{
+  "iptv": "http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "UGRA Travel"
+},
+{
+  "iptv": "http://rt-ural-sur-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "UGRA Travel (Сургут)"
+},
+{
+  "iptv": "http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Univer HD"
+},
+{
+  "iptv": "http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Univer TV"
+},
+{
+  "iptv": "http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Univer TV"
+},
+{
+  "iptv": "http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Univer TV"
+},
+{
+  "iptv": "http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "VIP Comedy"
+},
+{
+  "iptv": "http://188.35.9.5:10020/stolen/403x/hot.dll?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "VIP Megahit HD"
+},
+{
+  "iptv": "Sony Sci Fi?checkedby:iptvcat.com",
+  "logo": "http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8#EXTINF:-1,Sony Sci Fi?checkedby:iptvcat.com",
+  "name": "ViP Comedy"
+},
+{
+  "iptv": "http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ViP Megahit"
+},
+{
+  "iptv": "http://188.35.9.11:2016?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ViP Megahit HD"
+},
+{
+  "iptv": "http://streamer.sktv.peers.tv/streaming/tv1000_premium_hd/364/copy/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ViP Premiere"
+},
+{
+  "iptv": "http://188.35.9.5:10020/stolen/485v/hot.dll?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Viasat Explore"
+},
+{
+  "iptv": "http://212.0.215.106/Explorer/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Viasat Explorer (резерв)"
+},
+{
+  "iptv": "http://188.35.9.5:10020/stolen/486b/hot.dll?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Viasat History (Резерв1)"
+},
+{
+  "iptv": "https://wness103.neterra.tv/wness/wness.stream/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Wness TV HD"
+},
+{
+  "iptv": "https://wfc.bonus-tv.ru/cdn/wfcrus/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "World Fashion"
+},
+{
+  "iptv": "http://wfc.bonus-tv.ru/cdn/wfcrus/tracks-v3a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "World Fashion Channel"
+},
+{
+  "iptv": "https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Ynet Live"
+},
+{
+  "iptv": "http://193.46.210.28/stream/ehuh355pjb7ntywwfu35n2bc9u6bqhkbrk8ri6hj9iurwkdszgfixrvauv9z5bs4vsregp6kwghq886i6vwuu6t775adu582v9bespt4g4vbrcgt47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Zee TV"
+},
+{
+  "iptv": "https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_1.8k/chunklist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ch 23 החינוכית"
+},
+{
+  "iptv": "http://serv25.vintera.tv:8081/test/aris/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "АРИС 24"
+},
+{
+  "iptv": "http://hls.atvmedia.ru/atv800.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "АТВ"
+},
+{
+  "iptv": "http://rt-sib-irk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Аист (Иркутск)"
+},
+{
+  "iptv": "http://hls.goodgame.ru/hls/6147.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Антимайдан"
+},
+{
+  "iptv": "http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Арктика 24"
+},
+{
+  "iptv": "http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Архыз 24"
+},
+{
+  "iptv": "http://live.mediacdn.ru/sr1/arhis24/chunklist_b2396000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Архыз 24 HD"
+},
+{
+  "iptv": "http://streaming.astrakhan.ru/astrakhan24/tracks-v3a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Астрахань 24"
+},
+{
+  "iptv": "http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Астрахань 24"
+},
+{
+  "iptv": "http://streaming.astrakhan.ru/astrakhan24/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Астрахань 24"
+},
+{
+  "iptv": "https://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Астрахань 24 HD"
+},
+{
+  "iptv": "http://83.234.104.142/astrakhan24hd/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Астрахань 24 HD"
+},
+{
+  "iptv": "http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Астрахань 24 [FHD] +1"
+},
+{
+  "iptv": "http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Астрахань.Ru Sport"
+},
+{
+  "iptv": "http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Астрахань.Ru Sport"
+},
+{
+  "iptv": "http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Астрахань.Ru Sport"
+},
+{
+  "iptv": "http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Астрахань.Ru Sport"
+},
+{
+  "iptv": "http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Астрахань.Ru TV"
+},
+{
+  "iptv": "http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v2a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Астрахань.Ru TV"
+},
+{
+  "iptv": "http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Астрахань.Ru TV"
+},
+{
+  "iptv": "http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v5a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Астрахань.Ru TV"
+},
+{
+  "iptv": "http://xstream.afontovo.ru/afontovo_ya.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Афонтово (Красноярск)"
+},
+{
+  "iptv": "http://xstream.afontovo.ru/afontovo_sd.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Афонтово (Красноярск)"
+},
+{
+  "iptv": "http://live.gtrk.tv/720/b24-720.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Башкортостан 24"
+},
+{
+  "iptv": "http://live.gtrk.tv/hls/b24-hls.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Башкортостан 24 HD"
+},
+{
+  "iptv": "http://95.46.208.8:26258/belarus4?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Беларусь 4 (Витебск)"
+},
+{
+  "iptv": "http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Белгород 24"
+},
+{
+  "iptv": "http://89.106.234.3:80/bober_38_39.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Бобер"
+},
+{
+  "iptv": "http://rt-ct-bryansk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Брянская губерния"
+},
+{
+  "iptv": "http://185.112.140.9:8000/play/a02x?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "В гостях у сказки"
+},
+{
+  "iptv": "http://live-trknadym.cdnvideo.ru/trknadym-pub/trknadym.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Вестник Надыма +2"
+},
+{
+  "iptv": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Ветта 24 (Пермь)"
+},
+{
+  "iptv": "http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_VOLGA/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Волга (Н. Новгород)"
+},
+{
+  "iptv": "http://serv24.vintera.tv:8081/volga24/volgograd24/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Волгоград 24"
+},
+{
+  "iptv": "http://flussonic.powernet.com.ru:8080/telekanal_internet/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Волжский Плюс"
+},
+{
+  "iptv": "http://flussonic.powernet.com.ru:8080/telekanal_internet/tracks-v1a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Волжский Плюс [HD]"
+},
+{
+  "iptv": "http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Восток 24"
+},
+{
+  "iptv": "http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Вот ТВ HD"
+},
+{
+  "iptv": "http://78.107.248.201:4022/udp/233.33.210.61:5050?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Время"
+},
+{
+  "iptv": "https://hls-mycdn0539860594.cdnvideo.ru/mycdn0539860594/allufaru2/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Вся Уфа"
+},
+{
+  "iptv": "http://hls-mycdn0539860594.cdnvideo.ru/mycdn0539860594/allufaru2/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Вся Уфа"
+},
+{
+  "iptv": "http://www.gtk.tv/hls/gtyar.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Городской телеканал (Ярославль)"
+},
+{
+  "iptv": "http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Губерния (Воронеж)"
+},
+{
+  "iptv": "http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Губерния (Самара)"
+},
+{
+  "iptv": "http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Губерния 33 (Владимир)"
+},
+{
+  "iptv": "http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Губерния 33 HD"
+},
+{
+  "iptv": "http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Губерния Самарская"
+},
+{
+  "iptv": "http://strm.yandex.ru/kal/dialogi/dialogi0_169_480p.json/index-v1-a1.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ДИАЛОГИ О РЫБАЛКЕ"
+},
+{
+  "iptv": "https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ДОЖДЬ"
+},
+{
+  "iptv": "https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Дагестан"
+},
+{
+  "iptv": "http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v2a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Дагестан ТВ [FHD]"
+},
+{
+  "iptv": "http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Дзержинск ТВ (Дзержинск)"
+},
+{
+  "iptv": "http://tvshops.bonus-tv.ru:80/cdn/discount/tracks-v1a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Дисконт"
+},
+{
+  "iptv": "http://78.107.248.201:4022/udp/233.33.210.124:5050?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Дом кино"
+},
+{
+  "iptv": "http://hlsstr01.svc.iptv.rt.ru/hls/CH_DOMASHNIY/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Домашний"
+},
+{
+  "iptv": "http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Домашний +4,Домашний +4 (hlsstr01.svc)"
+},
+{
+  "iptv": "http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Дон 24"
+},
+{
+  "iptv": "http://rt-sth-rd-htlive-lb.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Дон 24"
+},
+{
+  "iptv": "https://cdn1.live-tv.od.ua:8083/dumska/dumska-abr-lq/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Думская.TV"
+},
+{
+  "iptv": "https://cdn1.live-tv.od.ua:8083/dumska/dumska-abr/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Думская.TV HD"
+},
+{
+  "iptv": "http://hls.goodgame.ru/hls/54105.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Дядя Ваня"
+},
+{
+  "iptv": "http://paideuma.tv:1941/live/Stream1/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Евразия"
+},
+{
+  "iptv": "http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Евразия (Орск)"
+},
+{
+  "iptv": "http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Евразия (Орск)"
+},
+{
+  "iptv": "http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_EKBTV_URAL_EKT/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Екатеринбург ТВ"
+},
+{
+  "iptv": "http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Енисей (Красноярск)"
+},
+{
+  "iptv": "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Жар Птица"
+},
+{
+  "iptv": "http://serv25.vintera.tv:8081/parad/patriot/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Звезда (+7)"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Здоровье Одесса"
+},
+{
+  "iptv": "http://cdn.illi.tv/illitv_500/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ИЛЛИ"
+},
+{
+  "iptv": "http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ИРТ (Днепр)"
+},
+{
+  "iptv": "http://195.5.108.14:1935/live/itv1/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ИТВ (Симферополь),ИТВ Крым"
+},
+{
+  "iptv": "http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Известия"
+},
+{
+  "iptv": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Известия"
+},
+{
+  "iptv": "http://cdn.illi.tv/illitv_2000/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Илли"
+},
+{
+  "iptv": "http://89.106.234.3:80/Indiiskoe_kino_38_39.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Индия ТВ"
+},
+{
+  "iptv": "http://212.0.215.115/IndiaTV/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Индия ТВ (резерв)"
+},
+{
+  "iptv": "http://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Инфо 24 HD"
+},
+{
+  "iptv": "http://hls.m-ten.ru:8080/hls/21/live.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Июнь (Междуреченск)"
+},
+{
+  "iptv": "http://109.68.40.67/life/k1_3/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "К1"
+},
+{
+  "iptv": "http://serv25.vintera.tv:8081/test/k16/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "К16 (Саров)"
+},
+{
+  "iptv": "http://sc.id-tv.kz/KMA_38_39.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "КМА (Музыка)"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "КРУГ"
+},
+{
+  "iptv": "http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Каббала ТВ"
+},
+{
+  "iptv": "http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Кавказ 24"
+},
+{
+  "iptv": "http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Калейдоскоп ТВ"
+},
+{
+  "iptv": "http://188.35.9.26:16050/udp/238.0.16.1:69000?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Кино UHD"
+},
+{
+  "iptv": "http://188.35.9.18:16050/udp/238.0.16.1:69000?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Кино UHD"
+},
+{
+  "iptv": "http://212.0.215.106/KinoTV/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Кино ТВ"
+},
+{
+  "iptv": "http://hls.goodgame.ru/hls/12949.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "КиноЗаказ 1"
+},
+{
+  "iptv": "http://autopilot.myowntv.org/content2/37493/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Кинозал (Боевик TV)"
+},
+{
+  "iptv": "http://autopilot.myowntv.org/content/37033/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Кинозал (Марс-ТВ)"
+},
+{
+  "iptv": "http://autopilot.myowntv.org/content2/37388/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Кинозал (Фантастика)"
+},
+{
+  "iptv": "http://autopilot.myowntv.org/content/37353/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Кинозал индийская классика"
+},
+{
+  "iptv": "http://78.107.248.201:4022/udp/233.33.210.57:5050?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Кинокомедия"
+},
+{
+  "iptv": "http://188.35.9.11:2021?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Кинопоказ (резерв)"
+},
+{
+  "iptv": "http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/728/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Киносвидание"
+},
+{
+  "iptv": "http://212.0.215.115/KinoSemya/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Киносемья"
+},
+{
+  "iptv": "http://212.0.215.106/Kinohit/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Кинохит (резерв)"
+},
+{
+  "iptv": "http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Классика кино,Классика кино HD"
+},
+{
+  "iptv": "http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Конный Мир"
+},
+{
+  "iptv": "http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Красная линия,Красная линия ТВ"
+},
+{
+  "iptv": "https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Красная линия"
+},
+{
+  "iptv": "http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Крик ТВ"
+},
+{
+  "iptv": "http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Крик ТВ HD"
+},
+{
+  "iptv": "http://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Крик-ТВ"
+},
+{
+  "iptv": "https://stream.kuban24.tv:1500/hls/stream.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Кубань 24 Орбита"
+},
+{
+  "iptv": "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Курай"
+},
+{
+  "iptv": "http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Курай (Уфа)"
+},
+{
+  "iptv": "http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ЛДПР ТВ"
+},
+{
+  "iptv": "http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ЛДПР ТВ"
+},
+{
+  "iptv": "http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Липецкое время"
+},
+{
+  "iptv": "http://video.platformcraft.ru/hls/rossp/proza720/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ЛитКлуб ТВ Проза"
+},
+{
+  "iptv": "http://video.platformcraft.ru/hls/rossp/slovo720/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ЛитКлуб ТВ Слово"
+},
+{
+  "iptv": "http://video.platformcraft.ru/hls/rossp/stihi720/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ЛитКлуб ТВ Стихи"
+},
+{
+  "iptv": "http://live.trk-luch.ru/hls/live_mid.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Луч (Пуровск)"
+},
+{
+  "iptv": "http://live.trk-luch.ru/hls/live_hi.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Луч (Пуровск),ТРК Луч(Тарко-Сале)"
+},
+{
+  "iptv": "http://213.174.23.59:8080/MS?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "М-Студио"
+},
+{
+  "iptv": "http://31.40.128.20/hls/003_match_tv.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "МАТЧ!"
+},
+{
+  "iptv": "http://live-migtv.cdnvideo.ru/migtv/migtv.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Миг ТВ (Ноябрьск),МИГ ТВ HD (Ноябрьск)"
+},
+{
+  "iptv": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "МТВ (Волгоград)"
+},
+{
+  "iptv": "http://188.35.9.26:11031/udp/184d?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Матч! ТВ (Резерв3)"
+},
+{
+  "iptv": "http://188.35.9.11:2025?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Матч! Футбол 1"
+},
+{
+  "iptv": "http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Между.Net (Междуреченск)"
+},
+{
+  "iptv": "http://live.trkmillet.ru/millet/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Миллет"
+},
+{
+  "iptv": "http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Министерство идей"
+},
+{
+  "iptv": "https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Министерство идей HD"
+},
+{
+  "iptv": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Мир,Мир HD"
+},
+{
+  "iptv": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Мир (+4)"
+},
+{
+  "iptv": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Мир 24"
+},
+{
+  "iptv": "https://sc.id-tv.kz/Mir24_38_39.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Мир 24"
+},
+{
+  "iptv": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Мир Premium"
+},
+{
+  "iptv": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Мир Белагорья"
+},
+{
+  "iptv": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Мир Белогорья,Мир Белогорья (Белгород)"
+},
+{
+  "iptv": "http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Москва 24"
+},
+{
+  "iptv": "http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Москва 24"
+},
+{
+  "iptv": "http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Москва Доверие,Москва. Доверие"
+},
+{
+  "iptv": "http://retc.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Московский Образовательный"
+},
+{
+  "iptv": "http://retc.educom.ru/mosobrtv/tv1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Московский образовательный"
+},
+{
+  "iptv": "http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Моя Планета"
+},
+{
+  "iptv": "http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Моя Планета"
+},
+{
+  "iptv": "https://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Моя Удмуртия"
+},
+{
+  "iptv": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Муз союз"
+},
+{
+  "iptv": "http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "МузСоюз"
+},
+{
+  "iptv": "http://212.0.215.106/Mult/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Мульт (резерв)"
+},
+{
+  "iptv": "https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "НВК Саха"
+},
+{
+  "iptv": "http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "НВК Саха"
+},
+{
+  "iptv": "http://140hotstp28.a.trbcdn.net/livemaster/cfd99gu0ai_nntv_tv/chunklist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ННТВ"
+},
+{
+  "iptv": "http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_VLG_NN_NNTV/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ННТВ (Нижний Новгород)"
+},
+{
+  "iptv": "http://140hotstp28.a.trbcdn.net/livemaster/cfd99gu0ai_nntv_tv/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ННТВ HD"
+},
+{
+  "iptv": "http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "НСК 49 (Новосибирск)"
+},
+{
+  "iptv": "http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "НТВ"
+},
+{
+  "iptv": "http://31.40.128.20/hls/004_ntv.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "НТВ"
+},
+{
+  "iptv": "http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "НТВ (+1)"
+},
+{
+  "iptv": "http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "НТВ (+2)"
+},
+{
+  "iptv": "http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_NTV/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "НТВ (+4)"
+},
+{
+  "iptv": "http://217.25.226.215:4022/udp/235.1.10.104:10000?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "НТВ (VORONEZH)"
+},
+{
+  "iptv": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "НТМ"
+},
+{
+  "iptv": "http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "НТМ (Мордовия),НТМ HD"
+},
+{
+  "iptv": "http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "НТМ (Мордовия)"
+},
+{
+  "iptv": "http://212.112.101.69:8081/stream39/output.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "НТС Спорт"
+},
+{
+  "iptv": "http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Надежда"
+},
+{
+  "iptv": "http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Надежда"
+},
+{
+  "iptv": "http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Настоящее время"
+},
+{
+  "iptv": "http://188.35.9.11:11152/q?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Наука 2.0"
+},
+{
+  "iptv": "http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/915/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Наше Крутое HD"
+},
+{
+  "iptv": "http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Наше ТВ"
+},
+{
+  "iptv": "http://rt-ural-sur-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Наши города (Когалым)"
+},
+{
+  "iptv": "http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Небеса ТВ7"
+},
+{
+  "iptv": "http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Ника TV"
+},
+{
+  "iptv": "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Ника ТВ"
+},
+{
+  "iptv": "http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Новое Радио"
+},
+{
+  "iptv": "http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Новое Радио ТВ"
+},
+{
+  "iptv": "http://serv25.vintera.tv:8081/novoetv/nov_tv/chunks.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Новое ТВ"
+},
+{
+  "iptv": "http://dprtv.phoenix-dnr.ru/novorossia-tv?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Новороссия ТВ,Новороссия ТВ HD"
+},
+{
+  "iptv": "http://ott.inmart.tv:8081/19/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Новороссия ТВ HD"
+},
+{
+  "iptv": "http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Новый век"
+},
+{
+  "iptv": "http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Новый век"
+},
+{
+  "iptv": "http://stream.studio360.tv/nw/nw_576p/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Новый мир"
+},
+{
+  "iptv": "http://persik.by/stream/8682/252987/10231.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Новый мир"
+},
+{
+  "iptv": "http://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_NOY24_URAL_NOY/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Ноябрьск 24"
+},
+{
+  "iptv": "https://strm.yandex.ru/kal/o2/o20_169_480p.json/index-v1-a1.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "О2ТВ"
+},
+{
+  "iptv": "http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ОТВ (Днепр)"
+},
+{
+  "iptv": "http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_CHEL/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ОТВ HD (Челябинск)"
+},
+{
+  "iptv": "http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ОТС (Новосибирск)"
+},
+{
+  "iptv": "http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ОТС HD"
+},
+{
+  "iptv": "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Общественное Независимое Телевидение"
+},
+{
+  "iptv": "http://185.18.4.16/live/3m/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Одинцово ТВ"
+},
+{
+  "iptv": "http://ott.inmart.tv:8081/17/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Оплoт 2 HD"
+},
+{
+  "iptv": "http://ott.inmart.tv:8081/54/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Оплoт HD"
+},
+{
+  "iptv": "http://188.35.9.11:2015?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Остросюжетное HD"
+},
+{
+  "iptv": "http://85.112.114.11:8086/udp/233.170.170.112:58631?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ПЯТНИЦА! HD"
+},
+{
+  "iptv": "https://serv25.vintera.tv/parad/patriot/chunks.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Парк Патриот HD"
+},
+{
+  "iptv": "http://188.35.9.5:10005/stolen/103r/imposter.rar?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Первый Канал HD"
+},
+{
+  "iptv": "http://live-meteotv.cdnvideo.ru/meteotv/meteotv/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Первый Метео"
+},
+{
+  "iptv": "http://rt-ct-tula-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Первый Тульский"
+},
+{
+  "iptv": "http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Первый Тульский HD"
+},
+{
+  "iptv": "http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Первый канал"
+},
+{
+  "iptv": "http://31.40.128.20/hls/001_perviy.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Первый канал"
+},
+{
+  "iptv": "http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Первый канал (Евразия)"
+},
+{
+  "iptv": "http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Первый канал (+1)"
+},
+{
+  "iptv": "http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Первый канал (+3)"
+},
+{
+  "iptv": "http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_1TV/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Первый канал (+4)"
+},
+{
+  "iptv": "http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Первый канал (+5)"
+},
+{
+  "iptv": "http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Первый канал (+6)"
+},
+{
+  "iptv": "http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Первый канал (+8)"
+},
+{
+  "iptv": "http://re.strah.video:1234/play/kosmohd?auth=zarin:RJsKR&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Первый космический HD"
+},
+{
+  "iptv": "http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Первый крымский"
+},
+{
+  "iptv": "http://31.40.128.20/hls/021_krim_1.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Первый крымский HD"
+},
+{
+  "iptv": "http://rt-ct-orl-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Первый областной (Орел)"
+},
+{
+  "iptv": "http://ott.inmart.tv:8081/18/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Первый республиканский"
+},
+{
+  "iptv": "http://89.106.234.3:80/poehali_34_35.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Поехали!"
+},
+{
+  "iptv": "http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_PRODVIZHENIE/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Продвижение (Омск)"
+},
+{
+  "iptv": "http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Просвещение"
+},
+{
+  "iptv": "http://217.25.226.215:4022/udp/235.1.10.90:10000?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Пятница (VORONEZH)"
+},
+{
+  "iptv": "http://89.106.234.3:80/friday_34_35.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Пятница! Int"
+},
+{
+  "iptv": "http://31.40.128.20/hls/005_5_kanal.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Пятый канал"
+},
+{
+  "iptv": "http://217.25.226.215:4022/udp/235.1.10.105:10000?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Пятый канал (VORONEZH)"
+},
+{
+  "iptv": "http://online.video.rbc.ru/online/rbctv_576p/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "РБК"
+},
+{
+  "iptv": "http://online.video.rbc.ru/online/rbctv_480p/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "РБК"
+},
+{
+  "iptv": "http://e6.online.video.rbc.ru/online2/rbctv_480p/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "РБК"
+},
+{
+  "iptv": "http://92.50.128.180/utv/1358/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "РБК"
+},
+{
+  "iptv": "http://online-video.rbc.ru/online/rbctv_480p/index.m3u8?e=e8&t=IbzcGc&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "РБК"
+},
+{
+  "iptv": "http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v3a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "РГВК Дагестан"
+},
+{
+  "iptv": "http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "РЕН ТВ HD"
+},
+{
+  "iptv": "http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "РЖД ТВ"
+},
+{
+  "iptv": "http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "РЖД ТВ"
+},
+{
+  "iptv": "http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "РЖД ТВ"
+},
+{
+  "iptv": "http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "РТС (Хакасия)"
+},
+{
+  "iptv": "http://langate.tv/acc/tracks-v1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Радио 10"
+},
+{
+  "iptv": "http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist_b1600000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Радио Вести FM"
+},
+{
+  "iptv": "http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Радио Говорит Москва"
+},
+{
+  "iptv": "https://a635216413-s81121.cdn.ngenix.net/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/158/108_d20190315164730.smil/chunklist_b1800000_pd2635000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Радио МАЯК"
+},
+{
+  "iptv": "http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mayak.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Радио Маяк"
+},
+{
+  "iptv": "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Радио Шансон"
+},
+{
+  "iptv": "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Радио Шансон"
+},
+{
+  "iptv": "http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v3a1/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Радость моя (bonus-tv)"
+},
+{
+  "iptv": "http://online-video.rbc.ru/online/rbctv.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Ратник"
+},
+{
+  "iptv": "http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Рен ТВ"
+},
+{
+  "iptv": "http://217.25.226.215:4022/udp/235.1.10.114:10000?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Рен ТВ (VORONEZH)"
+},
+{
+  "iptv": "http://cdn1.live-tv.od.ua:8081/31chod/31chod/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Репортер"
+},
+{
+  "iptv": "http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Репортер 73 (Ульяновск)"
+},
+{
+  "iptv": "http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Рифей ТВ"
+},
+{
+  "iptv": "http://89.106.234.3:80/Rodnoe_kino_38_39.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Родное кино"
+},
+{
+  "iptv": "http://31.40.128.20/hls/002_rossiya_1.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия"
+},
+{
+  "iptv": "http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 1 (+1)"
+},
+{
+  "iptv": "http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 1 (+3)"
+},
+{
+  "iptv": "http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 1 (+5)"
+},
+{
+  "iptv": "http://tv-online.gtrkchita.ru:8080/hls/r1-chita_180p.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 1 (+6)"
+},
+{
+  "iptv": "http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 1 (+6),Россия 1 +6"
+},
+{
+  "iptv": "http://s91030.cdn.ngenix.net/hls/CH_R04_OTT_DV_VLD_ROSSIA1_OTT/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 1 (+7)"
+},
+{
+  "iptv": "http://s14131.cdn.ngenix.net/hls/CH_R04_OTT_DV_KAM_ROSSIA1_PKAM_OTT/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 1 (+9)"
+},
+{
+  "iptv": "http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 1 (-1)"
+},
+{
+  "iptv": "http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 1 +1"
+},
+{
+  "iptv": "http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 1 +3"
+},
+{
+  "iptv": "http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 1 +5"
+},
+{
+  "iptv": "http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 1 +8"
+},
+{
+  "iptv": "http://s14131.cdn.ngenix.net/hls/CH_R04_OTT_DV_KAM_ROSSIA1_PKAM_OTT/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 1 +9"
+},
+{
+  "iptv": "http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 1 HD"
+},
+{
+  "iptv": "http://stream-nexttv.comboplayer.ru/hlsl/1/Rossiya_HD/04.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 1 HD"
+},
+{
+  "iptv": "https://a3569457661-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 1 HD"
+},
+{
+  "iptv": "http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 1 HD"
+},
+{
+  "iptv": "http://uiptv.do.am/1ufc/000000006/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 24"
+},
+{
+  "iptv": "http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 24"
+},
+{
+  "iptv": "http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 24"
+},
+{
+  "iptv": "https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия 24 (Н.Новгород)"
+},
+{
+  "iptv": "http://217.25.226.215:4022/udp/235.1.10.150:10000?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия HD"
+},
+{
+  "iptv": "http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия К"
+},
+{
+  "iptv": "http://uiptv.do.am/1ufc/000000005/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия К"
+},
+{
+  "iptv": "http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия К"
+},
+{
+  "iptv": "http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Россия РТР"
+},
+{
+  "iptv": "http://78.107.248.201:4022/udp/233.33.210.48:5050?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Русский иллюзион"
+},
+{
+  "iptv": "https://sitv.ru/hls/stv1024.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "С1 (Сургут)"
+},
+{
+  "iptv": "http://188.35.9.11:2002?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "СТБ"
+},
+{
+  "iptv": "http://sc.id-tv.kz/STV_36_37.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "СТВ Казахстан"
+},
+{
+  "iptv": "http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_STVBAYKAL/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "СТВ-Байкал (Улан-Удэ)"
+},
+{
+  "iptv": "http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "СТРК HD"
+},
+{
+  "iptv": "http://sochi-strk.ru:2015/STRK/mpegts?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "СТРК Сочи"
+},
+{
+  "iptv": "http://217.25.226.215:4022/udp/235.1.10.111:10000?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "СТС (VORONEZH)"
+},
+{
+  "iptv": "http://rt-sib-kem-htlive-lb.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "СТС +4"
+},
+{
+  "iptv": "http://217.25.226.215:4022/udp/235.1.10.187:10000?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "СТС Love (VORONEZH)"
+},
+{
+  "iptv": "http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "СТС Прима"
+},
+{
+  "iptv": "http://rt-vlg-saratov-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_VLG_SARATOV_SARATOV24/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Саратов 24"
+},
+{
+  "iptv": "http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Саха (Якутск)"
+},
+{
+  "iptv": "http://rt-sth-stavr-htlive-lb.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Свое ТВ HD"
+},
+{
+  "iptv": "http://live2.mediacdn.ru/sr1/sever/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Север (Нарьян-Мар)"
+},
+{
+  "iptv": "http://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Север (Нарьян-Мар)"
+},
+{
+  "iptv": "http://live.mediacdn.ru:80/sr1/sever/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Север (Нарьян-Мар),Север (Ненецкий автономный округ)"
+},
+{
+  "iptv": "http://83.222.205.22/sr1/sever/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Север ТВ"
+},
+{
+  "iptv": "https://video-4-305.rutube.ru/stream/10114442/688f74345bd8fd610e7a762db2416058/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Сила ТВ HD (Резерв)"
+},
+{
+  "iptv": "http://live-synergytv.cdnvideo.ru/synergytv/synergytv.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Синергия ТВ"
+},
+{
+  "iptv": "https://live-synergytv.cdnvideo.ru/synergytv/synergytv.sdp/chunklist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Синергия ТВ HD"
+},
+{
+  "iptv": "http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Сказки Зайки"
+},
+{
+  "iptv": "http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Смайлик ТВ"
+},
+{
+  "iptv": "http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Смайлик ТВ HD"
+},
+{
+  "iptv": "http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Сочи 24 HD"
+},
+{
+  "iptv": "http://sochi.camera:8080/cam_128/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Сочи 24 HD"
+},
+{
+  "iptv": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Союз"
+},
+{
+  "iptv": "http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Союз"
+},
+{
+  "iptv": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Страна FM"
+},
+{
+  "iptv": "http://78.140.57.47:8000/play/a011/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Супер"
+},
+{
+  "iptv": "http://85.112.114.11:8086/udp/238.2.49.249:1234?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Супер HD"
+},
+{
+  "iptv": "http://video1.in-news.ru/c24/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Сургут 24"
+},
+{
+  "iptv": "http://62.32.67.187:1935/WEB_TBN/TBN.stream/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ТБН"
+},
+{
+  "iptv": "http://217.25.226.215:4022/udp/235.1.10.27:10000?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ТВ 3 (VORONEZH)"
+},
+{
+  "iptv": "http://uiptv.do.am/1ufc/000000009/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ТВ Центр,ТВЦ Москва"
+},
+{
+  "iptv": "http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ТВ Центр"
+},
+{
+  "iptv": "http://a3569457554-rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ТВ-ИН HD"
+},
+{
+  "iptv": "http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV3/variant.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ТВ3"
+},
+{
+  "iptv": "https://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ТВР 24 (Сергиев Посад)"
+},
+{
+  "iptv": "http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ТВР 24 (Сергиев Посад)"
+},
+{
+  "iptv": "http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ТВЦ"
+},
+{
+  "iptv": "http://217.25.226.215:4022/udp/235.1.10.110:10000?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ТВЦ (VORONEZH)"
+},
+{
+  "iptv": "http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ТВЦ (Международный)"
+},
+{
+  "iptv": "http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_CENTRKRSN/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ТК Центр Красноярск"
+},
+{
+  "iptv": "http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ТКР (Рязань)"
+},
+{
+  "iptv": "http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ТНВ Планета"
+},
+{
+  "iptv": "http://217.25.226.215:4022/udp/235.1.10.119:10000?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ТНТ (VORONEZH)"
+},
+{
+  "iptv": "http://195.191.208.2:8086/udp/233.170.170.130:58631?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ТНТ 4 HD"
+},
+{
+  "iptv": "http://89.28.25.122/hls/tnt_md.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ТНТ Exclusive (Молдова)"
+},
+{
+  "iptv": "http://78.107.248.201:4022/udp/233.33.210.12:5050?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ТНТ музыка"
+},
+{
+  "iptv": "http://85.112.114.11:8086/udp/233.170.170.130:58631?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ТНТ4 HD"
+},
+{
+  "iptv": "http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Тагил ТВ"
+},
+{
+  "iptv": "http://a775797930-rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/playlist.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Татарстан 24"
+},
+{
+  "iptv": "http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Татарстан-24"
+},
+{
+  "iptv": "http://rt-ct-tver-htlive-lb.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Тверской Проспект – Регион,Тверской Проспект-Регион"
+},
+{
+  "iptv": "http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Тивиком HD (+5)"
+},
+{
+  "iptv": "http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Тольятти 24"
+},
+{
+  "iptv": "http://hls.tv.3angels.ru/stream/HQ.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Три Ангела"
+},
+{
+  "iptv": "http://streamer.rtcommufa.ru:1935/tugantel/tugantel1/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Туган Тел"
+},
+{
+  "iptv": "http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Тюменское время"
+},
+{
+  "iptv": "http://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Удмуртия"
+},
+{
+  "iptv": "https://live-urfo24.cdnvideo.ru/urfo24/urfo24.sdp/chunklist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "УрФО 24"
+},
+{
+  "iptv": "http://live-urfo24.cdnvideo.ru/urfo24/urfo24.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "УрФО 24"
+},
+{
+  "iptv": "http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Хамдан (Элиста)"
+},
+{
+  "iptv": "http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Хузур ТВ"
+},
+{
+  "iptv": "https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Хузур ТВ (Татарстан)"
+},
+{
+  "iptv": "http://rt-vlg-chr-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_NATIONALTV/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Чаваш Ен (Чебоксары)"
+},
+{
+  "iptv": "http://217.25.226.215:4022/udp/235.1.10.109:10000?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Че (VORONEZH)"
+},
+{
+  "iptv": "http://tvsever.ru:8080/hls/ach2.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Че (Север ) +2"
+},
+{
+  "iptv": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Шансон-ТВ"
+},
+{
+  "iptv": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Шансон-ТВ"
+},
+{
+  "iptv": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/chunklist_b1996000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Шансон-ТВ"
+},
+{
+  "iptv": "http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Шансон-ТВ"
+},
+{
+  "iptv": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Шансон-ТВ"
+},
+{
+  "iptv": "http://stream0.tv41.ru/live.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Щелковское ТВ"
+},
+{
+  "iptv": "http://stream.efir24.tv:1935/live/efirkazan/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Эфир ТВ (Казань),Эфир ТВ HD"
+},
+{
+  "iptv": "http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Эхо TV (Рязань),Эхо ТВ"
+},
+{
+  "iptv": "http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/chunklist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Эхо ТВ"
+},
+{
+  "iptv": "http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "ЮТВ (Чебоксары)"
+},
+{
+  "iptv": "http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Югра"
+},
+{
+  "iptv": "http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Югра ТВ"
+},
+{
+  "iptv": "http://ott.inmart.tv:8081/35/index.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Юнион"
+},
+{
+  "iptv": "http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_SAHA/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Якутия 24"
+},
+{
+  "iptv": "http://live-saha.cdnvideo.ru/saha/yak24/playlist.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Якутия 24 HD"
+},
+{
+  "iptv": "http://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8?version=2&checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "Ямал Регион"
+},
+{
+  "iptv": "http://hithd.camsh.orsk.ru/hls/hit.m3u8?checkedby:iptvcat.com",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/383px-Flag_of_Russia.svg.png",
+  "name": "радио Хит ТВ"
+}]
