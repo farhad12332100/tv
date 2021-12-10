@@ -1,40 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T21:13:10.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="L0AdJKACwYp-CdvH8KwT" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-10T21:20:54.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="3gCxXOcbpEqmPrLmXRnM" version="15.9.4" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="3175.5" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3784.5" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3" value="مدیر پروژه" style="rounded=1;shadow=1;fontStyle=1;fontSize=16;fontFamily=Scheherazade New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#FF3333;gradientDirection=north;" parent="1" vertex="1">
-          <mxGeometry x="662" y="345.5" width="220" height="60" as="geometry" />
+          <mxGeometry x="200" y="320" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="14" value="دیجیتال مارکتر" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=16;gradientDirection=north;fontColor=#ffffff;gradientColor=#66B2FF;fontFamily=Scheherazade New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" parent="1" vertex="1">
-          <mxGeometry x="330" y="784.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="110" y="784.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="18" value="IT واحد سایت و" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=16;whiteSpace=wrap;labelBackgroundColor=none;gradientColor=#7ea6e0;gradientDirection=north;fontFamily=Scheherazade New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" parent="1" vertex="1">
-          <mxGeometry x="850" y="615.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="850" y="600" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="19" value="UI &amp; UX طراح" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=16;gradientDirection=north;fontColor=#ffffff;gradientColor=#66B2FF;fontFamily=Scheherazade New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" parent="1" vertex="1">
-          <mxGeometry x="760" y="784.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="620" y="784.5" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Scheherazade New;fontSize=16;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" parent="1" source="3" target="Ew4LN3JDZJLzcZ6TO89s-77" edge="1">
-          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
-            <mxPoint x="22" y="265.5" as="sourcePoint" />
-            <mxPoint x="80" y="610" as="targetPoint" />
+        <mxCell id="38" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Scheherazade New;fontSize=16;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" parent="1" source="Ew4LN3JDZJLzcZ6TO89s-77" target="Ew4LN3JDZJLzcZ6TO89s-78" edge="1">
+          <mxGeometry x="-318" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="-300" y="670" as="sourcePoint" />
+            <mxPoint x="-168" y="784.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="552" y="555.5" />
+              <mxPoint x="-230" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="38" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Scheherazade New;fontSize=16;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" parent="1" source="Ew4LN3JDZJLzcZ6TO89s-77" target="Ew4LN3JDZJLzcZ6TO89s-78" edge="1">
-          <mxGeometry x="62" y="165.5" width="100" height="100" as="geometry">
-            <mxPoint x="80" y="670" as="sourcePoint" />
-            <mxPoint x="212" y="784.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="42" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Scheherazade New;fontSize=16;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" parent="1" source="Ew4LN3JDZJLzcZ6TO89s-76" target="14" edge="1">
-          <mxGeometry x="62" y="165.5" width="100" height="100" as="geometry">
-            <mxPoint x="520" y="670" as="sourcePoint" />
-            <mxPoint x="162" y="165.5" as="targetPoint" />
+          <mxGeometry x="-158" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="300" y="670" as="sourcePoint" />
+            <mxPoint x="-58" y="165.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="46" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;fontFamily=Scheherazade New;fontSize=16;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" parent="1" source="18" target="19" edge="1">
@@ -43,129 +37,153 @@
             <mxPoint x="172" y="165.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="54" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.463;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Scheherazade New;fontSize=16;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" parent="1" source="3" target="Ew4LN3JDZJLzcZ6TO89s-76" edge="1">
-          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
-            <mxPoint x="22" y="265.5" as="sourcePoint" />
-            <mxPoint x="520" y="610" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="652" y="555.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="55" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;fontFamily=Scheherazade New;fontSize=16;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" parent="1" source="3" target="18" edge="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
             <mxPoint x="22" y="265.5" as="sourcePoint" />
             <mxPoint x="122" y="165.5" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="460" y="550" />
+              <mxPoint x="310" y="556" />
               <mxPoint x="942" y="555.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ew4LN3JDZJLzcZ6TO89s-56" value="Data Scientist" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=18;gradientDirection=north;fontColor=#ffffff;gradientColor=#66B2FF;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="784.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="-740" y="774.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ew4LN3JDZJLzcZ6TO89s-59" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Scheherazade New;fontSize=16;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" edge="1" parent="1" source="Ew4LN3JDZJLzcZ6TO89s-77" target="Ew4LN3JDZJLzcZ6TO89s-56">
-          <mxGeometry x="72" y="175.5" width="100" height="100" as="geometry">
-            <mxPoint x="80" y="670" as="sourcePoint" />
-            <mxPoint x="180" y="790" as="targetPoint" />
+          <mxGeometry x="-308" y="175.5" width="100" height="100" as="geometry">
+            <mxPoint x="-300" y="670" as="sourcePoint" />
+            <mxPoint x="-200" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ew4LN3JDZJLzcZ6TO89s-60" value="بازاریاب" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=16;gradientDirection=north;fontColor=#ffffff;gradientColor=#66B2FF;fontFamily=Scheherazade New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" vertex="1" parent="1">
-          <mxGeometry x="550" y="784.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="340" y="784.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ew4LN3JDZJLzcZ6TO89s-61" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Scheherazade New;fontSize=16;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" edge="1" parent="1" target="Ew4LN3JDZJLzcZ6TO89s-60" source="Ew4LN3JDZJLzcZ6TO89s-76">
-          <mxGeometry x="180" y="290" width="100" height="100" as="geometry">
-            <mxPoint x="520" y="670" as="sourcePoint" />
-            <mxPoint x="280" y="290" as="targetPoint" />
+          <mxGeometry x="-40" y="290" width="100" height="100" as="geometry">
+            <mxPoint x="300" y="670" as="sourcePoint" />
+            <mxPoint x="60" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ew4LN3JDZJLzcZ6TO89s-62" value="سئو کار" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=16;gradientDirection=north;fontColor=#ffffff;gradientColor=#66B2FF;fontFamily=Scheherazade New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1020" width="200" height="60" as="geometry" />
+          <mxGeometry x="120" y="1020" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ew4LN3JDZJLzcZ6TO89s-63" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.45;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Scheherazade New;fontSize=16;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" edge="1" parent="1" target="Ew4LN3JDZJLzcZ6TO89s-62" source="14">
-          <mxGeometry x="-18" y="335.5" width="100" height="100" as="geometry">
-            <mxPoint x="440" y="840" as="sourcePoint" />
-            <mxPoint x="82" y="335.5" as="targetPoint" />
+          <mxGeometry x="-238" y="335.5" width="100" height="100" as="geometry">
+            <mxPoint x="220" y="840" as="sourcePoint" />
+            <mxPoint x="-138" y="335.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="870" />
+              <mxPoint x="220" y="870" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ew4LN3JDZJLzcZ6TO89s-64" value="برنامه نویس فرانت اند" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=16;gradientDirection=north;fontColor=#ffffff;gradientColor=#66B2FF;fontFamily=Scheherazade New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="1020" width="200" height="60" as="geometry" />
+          <mxGeometry x="-370" y="1020" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ew4LN3JDZJLzcZ6TO89s-67" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Scheherazade New;fontSize=16;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" edge="1" parent="1" source="Ew4LN3JDZJLzcZ6TO89s-78" target="Ew4LN3JDZJLzcZ6TO89s-64">
-          <mxGeometry x="-598" y="254.5" width="100" height="100" as="geometry">
-            <mxPoint x="210" y="844.5" as="sourcePoint" />
-            <mxPoint x="230" y="899" as="targetPoint" />
+          <mxGeometry x="-978" y="254.5" width="100" height="100" as="geometry">
+            <mxPoint x="-170" y="844.5" as="sourcePoint" />
+            <mxPoint x="-150" y="899" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="100" y="910" />
-              <mxPoint x="90" y="910" />
-              <mxPoint x="210" y="875" />
+              <mxPoint x="-280" y="910" />
+              <mxPoint x="-290" y="910" />
+              <mxPoint x="-170" y="875" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ew4LN3JDZJLzcZ6TO89s-68" value="برنامه نویس بک اند" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=16;gradientDirection=north;fontColor=#ffffff;gradientColor=#66B2FF;fontFamily=Scheherazade New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1020" width="200" height="60" as="geometry" />
+          <mxGeometry x="-140" y="1020" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ew4LN3JDZJLzcZ6TO89s-69" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Scheherazade New;fontSize=16;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" edge="1" parent="1" target="Ew4LN3JDZJLzcZ6TO89s-68" source="Ew4LN3JDZJLzcZ6TO89s-78">
-          <mxGeometry x="-506" y="320" width="100" height="100" as="geometry">
-            <mxPoint x="212" y="844.5" as="sourcePoint" />
-            <mxPoint x="322" y="964.5" as="targetPoint" />
+          <mxGeometry x="-886" y="320" width="100" height="100" as="geometry">
+            <mxPoint x="-168" y="844.5" as="sourcePoint" />
+            <mxPoint x="-58" y="964.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="260" y="910" />
-              <mxPoint x="302" y="940.5" />
+              <mxPoint x="-120" y="910" />
+              <mxPoint x="-78" y="940.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ew4LN3JDZJLzcZ6TO89s-70" value="برنامه نویس فرانت اند" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=16;gradientDirection=north;fontColor=#ffffff;gradientColor=#66B2FF;fontFamily=Scheherazade New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" vertex="1" parent="1">
-          <mxGeometry x="980" y="784.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="850" y="784.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ew4LN3JDZJLzcZ6TO89s-71" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Scheherazade New;fontSize=16;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" edge="1" parent="1" source="18" target="Ew4LN3JDZJLzcZ6TO89s-70">
           <mxGeometry x="132" y="80" width="100" height="100" as="geometry">
             <mxPoint x="940" y="670" as="sourcePoint" />
             <mxPoint x="960" y="724.5" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="950" y="760" />
+              <mxPoint x="950" y="710" />
               <mxPoint x="1060" y="730" />
               <mxPoint x="940" y="700.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ew4LN3JDZJLzcZ6TO89s-72" value="UI &amp; UX طراح" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=16;gradientDirection=north;fontColor=#ffffff;gradientColor=#66B2FF;fontFamily=Scheherazade New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" vertex="1" parent="1">
-          <mxGeometry x="-259.5" y="1020" width="200" height="60" as="geometry" />
+          <mxGeometry x="-600" y="1020" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ew4LN3JDZJLzcZ6TO89s-73" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Scheherazade New;fontSize=16;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" edge="1" parent="1" target="Ew4LN3JDZJLzcZ6TO89s-72" source="Ew4LN3JDZJLzcZ6TO89s-78">
-          <mxGeometry x="-807.5" y="254.5" width="100" height="100" as="geometry">
-            <mxPoint x="210" y="845" as="sourcePoint" />
-            <mxPoint x="20.5" y="899" as="targetPoint" />
+          <mxGeometry x="-1018" y="254.5" width="100" height="100" as="geometry">
+            <mxPoint x="-0.5" y="845" as="sourcePoint" />
+            <mxPoint x="-190" y="899" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-109.5" y="910" />
-              <mxPoint x="-119.5" y="910" />
-              <mxPoint x="0.5" y="875" />
+              <mxPoint x="-320" y="910" />
+              <mxPoint x="-330" y="910" />
+              <mxPoint x="-210" y="875" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ew4LN3JDZJLzcZ6TO89s-74" value="برنامه نویس بک اند" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=16;gradientDirection=north;fontColor=#ffffff;gradientColor=#66B2FF;fontFamily=Scheherazade New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="784.5" width="200" height="60" as="geometry" />
+        <mxCell id="Ew4LN3JDZJLzcZ6TO89s-74" value="برنامه نویس بک اند" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=1;fontSize=16;gradientDirection=north;fontColor=#ffffff;gradientColor=#66B2FF;fontFamily=Scheherazade New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="784.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ew4LN3JDZJLzcZ6TO89s-75" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Scheherazade New;fontSize=16;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" edge="1" parent="1" target="Ew4LN3JDZJLzcZ6TO89s-74" source="18">
           <mxGeometry x="242" y="280" width="100" height="100" as="geometry">
             <mxPoint x="940" y="670" as="sourcePoint" />
             <mxPoint x="1070" y="924.5" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1020" y="720" />
               <mxPoint x="1180" y="730" />
               <mxPoint x="1050" y="900.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ew4LN3JDZJLzcZ6TO89s-76" value="واحد دیجیتال مارکتیگ و بازار یابی" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=16;whiteSpace=wrap;labelBackgroundColor=none;gradientColor=#7ea6e0;gradientDirection=north;fontFamily=Scheherazade New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" vertex="1" parent="1">
-          <mxGeometry x="440" y="615.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="210" y="600" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ew4LN3JDZJLzcZ6TO89s-77" value="واحد نرم افزار" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=16;whiteSpace=wrap;labelBackgroundColor=none;gradientColor=#7ea6e0;gradientDirection=north;fontFamily=Scheherazade New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" vertex="1" parent="1">
-          <mxGeometry x="10" y="600" width="200" height="60" as="geometry" />
+          <mxGeometry x="-370" y="600" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ew4LN3JDZJLzcZ6TO89s-78" value="واحد برنامه نویسی" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=16;whiteSpace=wrap;labelBackgroundColor=none;gradientColor=#7ea6e0;gradientDirection=north;fontFamily=Scheherazade New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;" vertex="1" parent="1">
-          <mxGeometry x="110" y="784.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="-370" y="774.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ew4LN3JDZJLzcZ6TO89s-80" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;fontFamily=Scheherazade New;fontSize=16;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="Ew4LN3JDZJLzcZ6TO89s-76">
+          <mxGeometry x="-210.6" y="215.5" width="100" height="100" as="geometry">
+            <mxPoint x="80.4" y="430" as="sourcePoint" />
+            <mxPoint x="310" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="580" />
+              <mxPoint x="310" y="530" />
+              <mxPoint x="310" y="500" />
+              <mxPoint x="87.4" y="630" />
+              <mxPoint x="87.4" y="606" />
+              <mxPoint x="419.4" y="605.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew4LN3JDZJLzcZ6TO89s-81" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Scheherazade New;fontSize=16;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DScheherazade%2BNew;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3" target="Ew4LN3JDZJLzcZ6TO89s-77">
+          <mxGeometry x="-270.6" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="20.399999999999977" y="400" as="sourcePoint" />
+            <mxPoint x="20.00000000000034" y="638.02" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="550" />
+              <mxPoint x="100" y="500" />
+              <mxPoint x="20.399999999999977" y="620" />
+              <mxPoint x="27.399999999999977" y="600" />
+              <mxPoint x="27.399999999999977" y="576" />
+              <mxPoint x="359.4" y="575.5" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
